@@ -1,0 +1,958 @@
+[08-Nov-2012 03:38:54] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Nov-2012 03:38:54] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Nov-2012 03:38:54] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Nov-2012 03:38:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Nov-2012 03:38:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Nov-2012 03:38:54] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Nov-2012 03:38:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[08-Nov-2012 05:30:03] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Nov-2012 05:30:03] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Nov-2012 05:30:03] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Nov-2012 05:30:03] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Nov-2012 05:30:03] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Nov-2012 05:30:03] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Nov-2012 05:30:03] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[08-Nov-2012 05:30:31] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Nov-2012 05:30:31] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Nov-2012 05:30:31] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Nov-2012 05:30:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Nov-2012 05:30:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Nov-2012 05:30:31] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Nov-2012 05:30:31] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[08-Nov-2012 09:11:44] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Nov-2012 09:11:44] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Nov-2012 09:11:44] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Nov-2012 09:11:44] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Nov-2012 09:11:44] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Nov-2012 09:11:44] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Nov-2012 09:11:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[08-Nov-2012 12:04:36] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Nov-2012 12:04:36] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Nov-2012 12:04:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Nov-2012 12:04:36] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Nov-2012 12:04:36] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Nov-2012 12:04:36] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Nov-2012 12:04:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[10-Nov-2012 19:11:01] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[10-Nov-2012 19:11:01] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[10-Nov-2012 19:11:01] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[10-Nov-2012 19:11:01] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[10-Nov-2012 19:11:01] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[10-Nov-2012 19:11:01] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[10-Nov-2012 19:11:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[10-Nov-2012 19:11:15] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[10-Nov-2012 19:11:15] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[10-Nov-2012 19:11:15] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[10-Nov-2012 19:11:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[10-Nov-2012 19:11:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[10-Nov-2012 19:11:15] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[10-Nov-2012 19:11:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[11-Nov-2012 04:14:01] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[11-Nov-2012 04:14:01] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[11-Nov-2012 04:14:01] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[11-Nov-2012 04:14:01] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[11-Nov-2012 04:14:01] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[11-Nov-2012 04:14:01] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[11-Nov-2012 04:14:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[11-Nov-2012 20:23:56] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[11-Nov-2012 20:23:56] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[11-Nov-2012 20:23:56] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[11-Nov-2012 20:23:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[11-Nov-2012 20:23:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[11-Nov-2012 20:23:56] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[11-Nov-2012 20:23:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[11-Nov-2012 20:25:56] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[11-Nov-2012 20:25:56] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[11-Nov-2012 20:25:56] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[11-Nov-2012 20:25:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[11-Nov-2012 20:25:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[11-Nov-2012 20:25:56] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[11-Nov-2012 20:25:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[11-Nov-2012 20:26:10] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[11-Nov-2012 20:26:10] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[11-Nov-2012 20:26:10] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[11-Nov-2012 20:26:10] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[11-Nov-2012 20:26:10] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[11-Nov-2012 20:26:10] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[11-Nov-2012 20:26:10] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[11-Nov-2012 20:26:22] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[11-Nov-2012 20:26:22] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[11-Nov-2012 20:26:22] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[11-Nov-2012 20:26:22] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[11-Nov-2012 20:26:22] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[11-Nov-2012 20:26:22] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[11-Nov-2012 20:26:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[11-Nov-2012 20:26:27] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[11-Nov-2012 20:26:27] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[11-Nov-2012 20:26:27] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[11-Nov-2012 20:26:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[11-Nov-2012 20:26:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[11-Nov-2012 20:26:27] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[11-Nov-2012 20:26:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[11-Nov-2012 20:26:39] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[11-Nov-2012 20:26:39] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[11-Nov-2012 20:26:39] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[11-Nov-2012 20:26:39] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[11-Nov-2012 20:26:39] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[11-Nov-2012 20:26:39] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[11-Nov-2012 20:26:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[11-Nov-2012 20:26:53] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[11-Nov-2012 20:26:53] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[11-Nov-2012 20:26:53] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[11-Nov-2012 20:26:53] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[11-Nov-2012 20:26:53] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[11-Nov-2012 20:26:53] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[11-Nov-2012 20:26:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[13-Nov-2012 09:04:40] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[13-Nov-2012 09:04:40] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[13-Nov-2012 09:04:40] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[13-Nov-2012 09:04:40] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[13-Nov-2012 09:04:40] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[13-Nov-2012 09:04:40] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[13-Nov-2012 09:04:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[08-Dec-2012 11:37:27] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 11:37:27] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 11:37:27] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 11:37:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 11:37:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 11:37:27] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 11:37:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[08-Dec-2012 11:37:52] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 11:37:52] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 11:37:52] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 11:37:52] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 11:37:52] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 11:37:52] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 11:37:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[08-Dec-2012 11:38:02] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 11:38:02] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 11:38:02] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 11:38:02] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 11:38:02] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 11:38:02] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 11:38:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[08-Dec-2012 11:38:11] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 11:38:11] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 11:38:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 11:38:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 11:38:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 11:38:11] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 11:38:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[08-Dec-2012 12:05:28] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 12:05:28] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 12:05:28] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 12:05:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 12:05:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 12:05:28] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 12:05:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[08-Dec-2012 12:07:12] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 12:07:12] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 12:07:12] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 12:07:12] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 12:07:12] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 12:07:12] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 12:07:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[08-Dec-2012 13:59:17] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 13:59:17] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 13:59:17] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 13:59:17] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 13:59:17] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 13:59:17] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 13:59:17] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[08-Dec-2012 18:44:33] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 18:44:33] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 18:44:33] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 18:44:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 18:44:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 18:44:33] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 18:44:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[08-Dec-2012 18:44:54] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 18:44:54] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 18:44:54] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 18:44:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 18:44:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 18:44:54] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 18:44:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[08-Dec-2012 18:45:03] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 18:45:03] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 18:45:03] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 18:45:03] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 18:45:03] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 18:45:03] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 18:45:03] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[08-Dec-2012 20:30:07] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 20:30:07] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 20:30:07] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Dec-2012 20:30:07] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 20:30:07] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 20:30:07] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Dec-2012 20:30:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[09-Dec-2012 00:25:30] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[09-Dec-2012 00:25:30] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[09-Dec-2012 00:25:30] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[09-Dec-2012 00:25:30] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[09-Dec-2012 00:25:30] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[09-Dec-2012 00:25:30] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[09-Dec-2012 00:25:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[08-Jan-2013 17:13:35] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Jan-2013 17:13:35] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Jan-2013 17:13:35] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Jan-2013 17:13:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Jan-2013 17:13:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Jan-2013 17:13:35] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Jan-2013 17:13:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[08-Jan-2013 17:31:43] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Jan-2013 17:31:43] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Jan-2013 17:31:43] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Jan-2013 17:31:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Jan-2013 17:31:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Jan-2013 17:31:43] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Jan-2013 17:31:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[08-Jan-2013 17:38:27] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Jan-2013 17:38:27] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Jan-2013 17:38:27] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Jan-2013 17:38:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Jan-2013 17:38:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Jan-2013 17:38:28] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Jan-2013 17:38:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[08-Jan-2013 17:44:56] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Jan-2013 17:44:56] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Jan-2013 17:44:56] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Jan-2013 17:44:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Jan-2013 17:44:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Jan-2013 17:44:56] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Jan-2013 17:44:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[08-Jan-2013 17:45:13] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Jan-2013 17:45:13] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Jan-2013 17:45:13] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Jan-2013 17:45:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Jan-2013 17:45:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Jan-2013 17:45:13] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Jan-2013 17:45:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[08-Jan-2013 17:45:36] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Jan-2013 17:45:36] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Jan-2013 17:45:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Jan-2013 17:45:36] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Jan-2013 17:45:36] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Jan-2013 17:45:36] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Jan-2013 17:45:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[08-Jan-2013 17:46:03] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Jan-2013 17:46:03] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Jan-2013 17:46:03] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[08-Jan-2013 17:46:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Jan-2013 17:46:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Jan-2013 17:46:04] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[08-Jan-2013 17:46:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[14-Jan-2013 16:19:42] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[14-Jan-2013 16:19:42] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[14-Jan-2013 16:19:42] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[14-Jan-2013 16:19:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[14-Jan-2013 16:19:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[14-Jan-2013 16:19:42] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[14-Jan-2013 16:19:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[14-Jan-2013 16:22:24] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[14-Jan-2013 16:22:24] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[14-Jan-2013 16:22:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[14-Jan-2013 16:22:24] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[14-Jan-2013 16:22:24] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[14-Jan-2013 16:22:24] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[14-Jan-2013 16:22:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[14-Jan-2013 16:53:06] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[14-Jan-2013 16:53:06] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 213
+[14-Jan-2013 16:53:06] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 213
+[14-Jan-2013 16:53:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[14-Jan-2013 16:53:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 229
+[14-Jan-2013 16:53:06] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 229
+[14-Jan-2013 16:53:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 230
+[14-Jan-2013 16:53:11] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list_2.php on line 213
+[14-Jan-2013 16:53:11] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list_2.php on line 213
+[14-Jan-2013 16:53:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list_2.php on line 213
+[14-Jan-2013 16:53:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list_2.php on line 229
+[14-Jan-2013 16:53:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list_2.php on line 229
+[14-Jan-2013 16:53:11] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list_2.php on line 229
+[14-Jan-2013 16:53:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list_2.php on line 230
+[14-Jan-2013 16:54:01] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list_2.php on line 242
+[14-Jan-2013 16:54:01] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list_2.php on line 242
+[14-Jan-2013 16:54:01] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list_2.php on line 242
+[14-Jan-2013 16:54:01] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list_2.php on line 258
+[14-Jan-2013 16:54:01] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list_2.php on line 258
+[14-Jan-2013 16:54:01] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list_2.php on line 258
+[14-Jan-2013 16:54:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list_2.php on line 259
+[14-Jan-2013 19:36:44] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[14-Jan-2013 19:36:44] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[14-Jan-2013 19:36:44] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[14-Jan-2013 19:36:44] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[14-Jan-2013 19:36:44] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[14-Jan-2013 19:36:44] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[14-Jan-2013 19:36:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[14-Jan-2013 22:06:21] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[14-Jan-2013 22:06:21] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[14-Jan-2013 22:06:21] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[14-Jan-2013 22:06:21] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[14-Jan-2013 22:06:21] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[14-Jan-2013 22:06:21] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[14-Jan-2013 22:06:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[14-Jan-2013 23:11:03] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[14-Jan-2013 23:11:03] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[14-Jan-2013 23:11:03] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[14-Jan-2013 23:11:03] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[14-Jan-2013 23:11:03] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[14-Jan-2013 23:11:03] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[14-Jan-2013 23:11:03] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[15-Jan-2013 16:24:15] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[15-Jan-2013 16:24:15] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[15-Jan-2013 16:24:15] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[15-Jan-2013 16:24:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[15-Jan-2013 16:24:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[15-Jan-2013 16:24:15] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[15-Jan-2013 16:24:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[15-Jan-2013 16:24:27] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[15-Jan-2013 16:24:27] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[15-Jan-2013 16:24:27] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[15-Jan-2013 16:24:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[15-Jan-2013 16:24:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[15-Jan-2013 16:24:27] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[15-Jan-2013 16:24:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[17-Jan-2013 04:03:45] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[17-Jan-2013 04:03:45] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[17-Jan-2013 04:03:45] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[17-Jan-2013 04:03:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[17-Jan-2013 04:03:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[17-Jan-2013 04:03:45] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[17-Jan-2013 04:03:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[27-Jan-2013 08:08:59] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[27-Jan-2013 08:08:59] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[27-Jan-2013 08:08:59] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[27-Jan-2013 08:08:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[27-Jan-2013 08:08:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[27-Jan-2013 08:08:59] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[27-Jan-2013 08:08:59] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[28-Jan-2013 19:18:54] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:18:54] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:18:54] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:18:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:18:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:18:54] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:18:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[28-Jan-2013 19:21:57] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:21:57] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:21:57] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:21:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:21:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:21:57] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:21:57] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[28-Jan-2013 19:22:10] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:10] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:10] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:10] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:10] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:10] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:10] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[28-Jan-2013 19:22:11] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:11] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:11] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[28-Jan-2013 19:22:11] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:11] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:11] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[28-Jan-2013 19:22:12] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:12] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:12] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:12] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:12] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:12] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[28-Jan-2013 19:22:12] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:12] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:12] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:12] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:12] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:12] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[28-Jan-2013 19:22:13] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:13] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:13] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:13] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[28-Jan-2013 19:22:13] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:13] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:13] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:13] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[28-Jan-2013 19:22:14] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:14] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:14] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:14] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:14] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:14] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[28-Jan-2013 19:22:14] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:14] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:14] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:14] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:14] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:14] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[28-Jan-2013 19:22:14] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:14] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:14] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:14] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:14] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:14] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[28-Jan-2013 19:22:15] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:15] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:15] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:15] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[28-Jan-2013 19:22:15] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:15] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:15] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:22:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:15] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:22:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[28-Jan-2013 19:37:32] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:37:32] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:37:32] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:37:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:37:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:37:32] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:37:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[28-Jan-2013 19:37:32] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:37:32] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:37:32] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[28-Jan-2013 19:37:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:37:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:37:32] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[28-Jan-2013 19:37:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[29-Jan-2013 02:40:00] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[29-Jan-2013 02:40:00] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[29-Jan-2013 02:40:00] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[29-Jan-2013 02:40:00] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[29-Jan-2013 02:40:00] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[29-Jan-2013 02:40:00] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[29-Jan-2013 02:40:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[29-Jan-2013 02:42:06] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[29-Jan-2013 02:42:06] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[29-Jan-2013 02:42:06] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[29-Jan-2013 02:42:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[29-Jan-2013 02:42:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[29-Jan-2013 02:42:06] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[29-Jan-2013 02:42:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[29-Jan-2013 02:43:03] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[29-Jan-2013 02:43:03] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[29-Jan-2013 02:43:03] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[29-Jan-2013 02:43:03] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[29-Jan-2013 02:43:03] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[29-Jan-2013 02:43:03] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[29-Jan-2013 02:43:03] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[29-Jan-2013 02:43:49] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[29-Jan-2013 02:43:49] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[29-Jan-2013 02:43:49] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[29-Jan-2013 02:43:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[29-Jan-2013 02:43:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[29-Jan-2013 02:43:49] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[29-Jan-2013 02:43:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[29-Jan-2013 02:44:07] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[29-Jan-2013 02:44:07] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[29-Jan-2013 02:44:07] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[29-Jan-2013 02:44:07] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[29-Jan-2013 02:44:07] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[29-Jan-2013 02:44:07] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[29-Jan-2013 02:44:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[29-Jan-2013 02:45:39] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[29-Jan-2013 02:45:39] PHP Warning:  include(geo_config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/visual/public_html/app/geo_list.php on line 242
+[29-Jan-2013 02:45:39] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'geo_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home2/visual/public_html/app/geo_list.php on line 242
+[29-Jan-2013 02:45:39] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[29-Jan-2013 02:45:39] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/geo_list.php on line 258
+[29-Jan-2013 02:45:39] PHP Notice:  Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/geo_list.php on line 258
+[29-Jan-2013 02:45:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/geo_list.php on line 259
+[29-Jan-2013 02:52:27] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/visual/public_html/app/geo_fix.php on line 3
+[29-Jan-2013 02:52:56] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/visual/public_html/app/geo_fix.php on line 3
+[29-Jan-2013 02:54:02] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/visual/public_html/app/geo_fix.php on line 3
+[29-Jan-2013 02:54:28] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/visual/public_html/app/geo_fix.php on line 3
+[29-Jan-2013 02:58:26] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/visual/public_html/app/geo_fix.php on line 3
+[29-Jan-2013 02:58:29] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home2/visual/public_html/app/phpsqlajax_genxml2.php:3) in /home2/visual/public_html/app/include/calvars.inc.php on line 2
+[29-Jan-2013 02:58:29] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/visual/public_html/app/phpsqlajax_genxml2.php:3) in /home2/visual/public_html/app/include/calvars.inc.php on line 2
+[29-Jan-2013 03:09:05] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/visual/public_html/app/geo_fix.php on line 3
+[29-Jan-2013 03:09:08] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home2/visual/public_html/app/phpsqlajax_genxml2.php:3) in /home2/visual/public_html/app/include/calvars.inc.php on line 2
+[29-Jan-2013 03:09:08] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/visual/public_html/app/phpsqlajax_genxml2.php:3) in /home2/visual/public_html/app/include/calvars.inc.php on line 2
+[29-Jan-2013 03:09:48] PHP Parse error:  syntax error, unexpected T_STRING in /home2/visual/public_html/app/geo_fix.php on line 3
+[29-Jan-2013 03:09:55] PHP Parse error:  syntax error, unexpected T_STRING in /home2/visual/public_html/app/geo_fix.php on line 3
+[29-Jan-2013 03:09:59] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home2/visual/public_html/app/phpsqlajax_genxml2.php:3) in /home2/visual/public_html/app/include/calvars.inc.php on line 2
+[29-Jan-2013 03:09:59] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/visual/public_html/app/phpsqlajax_genxml2.php:3) in /home2/visual/public_html/app/include/calvars.inc.php on line 2
+[29-Jan-2013 03:10:45] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home2/visual/public_html/app/geo_list.php:22) in /home2/visual/public_html/app/include/calvars.inc.php on line 2
+[29-Jan-2013 03:10:45] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/visual/public_html/app/geo_list.php:22) in /home2/visual/public_html/app/include/calvars.inc.php on line 2
+[29-Jan-2013 03:11:00] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home2/visual/public_html/app/phpsqlajax_genxml2.php:3) in /home2/visual/public_html/app/include/calvars.inc.php on line 2
+[29-Jan-2013 03:11:00] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/visual/public_html/app/phpsqlajax_genxml2.php:3) in /home2/visual/public_html/app/include/calvars.inc.php on line 2
+[29-Jan-2013 03:12:34] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home2/visual/public_html/app/geo_list.php:22) in /home2/visual/public_html/app/include/calvars.inc.php on line 2
+[29-Jan-2013 03:12:34] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/visual/public_html/app/geo_list.php:22) in /home2/visual/public_html/app/include/calvars.inc.php on line 2
+[29-Jan-2013 03:12:46] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home2/visual/public_html/app/phpsqlajax_genxml2.php:3) in /home2/visual/public_html/app/include/calvars.inc.php on line 2
+[29-Jan-2013 03:12:46] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/visual/public_html/app/phpsqlajax_genxml2.php:3) in /home2/visual/public_html/app/include/calvars.inc.php on line 2
+[29-Jan-2013 03:12:55] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home2/visual/public_html/app/geo_list.php:22) in /home2/visual/public_html/app/include/calvars.inc.php on line 2
+[29-Jan-2013 03:12:55] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/visual/public_html/app/geo_list.php:22) in /home2/visual/public_html/app/include/calvars.inc.php on line 2
+[29-Jan-2013 03:13:09] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home2/visual/public_html/app/geo_list.php:22) in /home2/visual/public_html/app/include/calvars.inc.php on line 2
+[29-Jan-2013 03:13:09] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/visual/public_html/app/geo_list.php:22) in /home2/visual/public_html/app/include/calvars.inc.php on line 2
+[29-Jan-2013 03:13:23] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home2/visual/public_html/app/geo_list.php:22) in /home2/visual/public_html/app/include/calvars.inc.php on line 2
+[29-Jan-2013 03:13:23] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/visual/public_html/app/geo_list.php:22) in /home2/visual/public_html/app/include/calvars.inc.php on line 2
+[29-Jan-2013 03:13:33] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home2/visual/public_html/app/phpsqlajax_genxml2.php:3) in /home2/visual/public_html/app/include/calvars.inc.php on line 2
+[29-Jan-2013 03:13:33] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/visual/public_html/app/phpsqlajax_genxml2.php:3) in /home2/visual/public_html/app/include/calvars.inc.php on line 2
+[29-Jan-2013 03:17:19] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home2/visual/public_html/app/geo_list.php:22) in /home2/visual/public_html/app/include/calvars.inc.php on line 2
+[29-Jan-2013 03:17:19] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/visual/public_html/app/geo_list.php:22) in /home2/visual/public_html/app/include/calvars.inc.php on line 2
+[29-Jan-2013 03:17:29] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home2/visual/public_html/app/phpsqlajax_genxml2.php:3) in /home2/visual/public_html/app/include/calvars.inc.php on line 2
+[29-Jan-2013 03:17:29] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/visual/public_html/app/phpsqlajax_genxml2.php:3) in /home2/visual/public_html/app/include/calvars.inc.php on line 2
+[05-Feb-2013 03:00:39] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 216
+[05-Feb-2013 03:00:39] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 216
+[05-Feb-2013 03:01:39] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 218
+[05-Feb-2013 03:01:39] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 218
+[05-Feb-2013 03:04:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:04:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:04:38] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:04:38] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:05:44] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:05:44] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:06:44] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:06:44] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:06:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:06:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:06:51] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:06:51] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:07:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:07:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:14:46] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:14:46] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:19:55] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:19:55] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:20:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:20:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:40:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:40:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:41:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:41:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:44:34] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:44:34] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:46:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:46:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:48:44] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:48:44] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:53:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:53:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:55:09] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:55:09] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:55:58] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 03:55:58] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:02:12] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:02:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:04:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:04:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:19:41] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:19:41] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:19:46] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:19:46] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:20:24] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:20:24] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:21:16] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:21:16] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:21:39] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:21:39] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:22:29] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:22:29] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:24:30] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:24:30] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:51:47] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:51:47] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:52:22] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:52:22] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:52:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:52:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:53:00] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:53:00] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:53:37] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:53:37] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:54:16] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:54:16] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:55:48] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 04:55:48] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 05:02:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 05:02:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 05:03:23] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 05:03:23] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 05:04:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 05:04:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 05:05:55] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 05:05:55] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 05:06:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 05:06:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 16:05:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 16:05:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 16:36:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 16:36:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 16:39:01] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 16:39:01] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 17:03:00] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 17:03:00] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 17:14:46] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 17:14:46] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 17:15:22] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 17:15:22] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 17:15:47] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 17:15:47] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 20:16:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 20:16:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 20:16:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 20:16:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 20:16:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 20:16:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 20:16:34] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 20:16:34] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 20:16:34] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 20:16:34] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 20:16:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 20:16:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 22:23:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[05-Feb-2013 22:23:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 17:07:29] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 17:07:29] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 17:08:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 17:08:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 17:08:46] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 17:08:46] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 17:18:10] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 17:18:10] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 17:31:21] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 17:31:21] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 17:31:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 17:31:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 17:33:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 17:33:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 17:33:07] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 17:33:07] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 17:33:58] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 17:33:58] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 20:14:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 20:14:57] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 20:45:20] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 20:45:20] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 20:47:30] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 20:47:30] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 20:53:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 20:53:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 20:55:00] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.dev.php on line 217
+[13-Feb-2013 20:55:00] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.dev.php on line 217
+[13-Feb-2013 20:55:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.dev.php on line 217
+[13-Feb-2013 20:55:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.dev.php on line 217
+[13-Feb-2013 20:55:47] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 20:55:47] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[13-Feb-2013 21:00:51] PHP Notice:  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2013-02-13)' at line 1 in /home2/visual/public_html/app/date_region_list.php on line 253
+[13-Feb-2013 21:00:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/date_region_list.php on line 255
+[13-Feb-2013 21:20:50] PHP Parse error:  syntax error, unexpected ';' in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[14-Feb-2013 18:41:44] PHP Parse error:  syntax error, unexpected ';' in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 41
+[14-Feb-2013 18:41:50] PHP Parse error:  syntax error, unexpected ';' in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 41
+[17-Feb-2013 22:51:26] PHP Parse error:  syntax error, unexpected '.' in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 118
+[17-Feb-2013 22:54:20] PHP Parse error:  syntax error, unexpected ':' in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 117
+[17-Feb-2013 22:54:23] PHP Parse error:  syntax error, unexpected ':' in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 117
+[17-Feb-2013 22:55:42] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 116
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:49] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:55:54] PHP Warning:  Wrong parameter count for substr() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 16:56:15] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 44
+[18-Feb-2013 18:36:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[18-Feb-2013 18:36:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[18-Feb-2013 18:51:59] PHP Fatal error:  Call to undefined function now() in /home2/visual/public_html/app/phpsqlajax_genxml2.php on line 20
+[18-Feb-2013 20:53:16] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: No ending delimiter 'â' found in /home2/visual/public_html/app/details.php on line 135
+[18-Feb-2013 20:54:54] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: No ending delimiter 'â' found in /home2/visual/public_html/app/details.php on line 135
+[18-Feb-2013 20:56:22] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: No ending delimiter 'â' found in /home2/visual/public_html/app/details.php on line 135
+[18-Feb-2013 21:00:56] PHP Parse error:  syntax error, unexpected T_STRING in /home2/visual/public_html/app/details.php on line 136
+[18-Feb-2013 21:27:25] PHP Parse error:  syntax error, unexpected T_ENDIF in /home2/visual/public_html/app/details.php on line 163
+[18-Feb-2013 21:28:08] PHP Parse error:  syntax error, unexpected T_ENDIF in /home2/visual/public_html/app/details.php on line 163
+[18-Feb-2013 21:28:12] PHP Parse error:  syntax error, unexpected T_ENDIF in /home2/visual/public_html/app/details.php on line 163
+[18-Feb-2013 22:05:16] PHP Parse error:  syntax error, unexpected T_VAR in /home2/visual/public_html/app/details.php on line 121
+[19-Feb-2013 16:08:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/visual/public_html/app/details.php on line 49
+[19-Feb-2013 16:14:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[19-Feb-2013 16:14:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[19-Feb-2013 16:14:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[19-Feb-2013 16:14:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[19-Feb-2013 16:21:09] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[19-Feb-2013 16:21:09] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[19-Feb-2013 16:26:38] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 219
+[19-Feb-2013 16:26:38] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 219
+[19-Feb-2013 16:26:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 219
+[19-Feb-2013 16:26:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 219
+[19-Feb-2013 16:27:02] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 219
+[19-Feb-2013 16:27:02] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 219
+[19-Feb-2013 16:27:10] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 219
+[19-Feb-2013 16:27:10] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 219
+[19-Feb-2013 16:28:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 219
+[19-Feb-2013 16:28:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 219
+[19-Feb-2013 16:28:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 219
+[19-Feb-2013 16:28:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 219
+[19-Feb-2013 16:28:47] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 219
+[19-Feb-2013 16:28:47] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 219
+[19-Feb-2013 16:28:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 219
+[19-Feb-2013 16:28:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 219
+[19-Feb-2013 16:30:48] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 219
+[19-Feb-2013 16:30:48] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 219
+[19-Feb-2013 16:32:24] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[19-Feb-2013 16:32:24] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[19-Feb-2013 16:32:46] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[19-Feb-2013 16:32:46] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[19-Feb-2013 16:39:36] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'visual'@'localhost' (using password: NO) in /home2/visual/public_html/app/date_region_list.php on line 217
+[19-Feb-2013 16:39:36] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/visual/public_html/app/date_region_list.php on line 217
+[19-Feb-2013 16:50:07] PHP Fatal error:  Call to undefined function February 19, 2013() in /home2/visual/public_html/app/date_region_list.php on line 221
+[19-Feb-2013 16:57:39] PHP Fatal error:  Function name must be a string in /home2/visual/public_html/app/date_region_list.php on line 233
+[19-Feb-2013 16:57:55] PHP Fatal error:  Function name must be a string in /home2/visual/public_html/app/date_region_list.php on line 234
+[19-Feb-2013 17:05:03] PHP Parse error:  syntax error, unexpected $end in /home2/visual/public_html/app/date_region_list.php on line 290
+[19-Feb-2013 17:05:18] PHP Parse error:  syntax error, unexpected $end in /home2/visual/public_html/app/date_region_list.php on line 288
+[19-Feb-2013 17:06:06] PHP Parse error:  syntax error, unexpected T_IF in /home2/visual/public_html/app/date_region_list.php on line 24
+[19-Feb-2013 17:50:58] PHP Parse error:  syntax error, unexpected T_VAR in /home2/visual/public_html/app/date_region_list.php on line 93
+[19-Feb-2013 17:51:05] PHP Parse error:  syntax error, unexpected T_VAR in /home2/visual/public_html/app/date_region_list.php on line 93
+[19-Feb-2013 17:51:29] PHP Parse error:  syntax error, unexpected T_VAR in /home2/visual/public_html/app/date_region_list.php on line 92
+[19-Feb-2013 23:09:38] PHP Parse error:  syntax error, unexpected T_VAR, expecting ',' or ';' in /home2/visual/public_html/app/date_region_list.php on line 72
+[20-Feb-2013 00:05:57] PHP Fatal error:  Call to undefined function alert() in /home2/visual/public_html/app/geo_list.php on line 76
+[20-Feb-2013 00:06:15] PHP Fatal error:  Call to undefined function alert() in /home2/visual/public_html/app/geo_list.php on line 75
+[20-Feb-2013 01:30:39] PHP Parse error:  syntax error, unexpected '{' in /home2/visual/public_html/app/date_region_list.php on line 13
+[20-Feb-2013 01:30:57] PHP Parse error:  syntax error, unexpected T_IF, expecting '(' in /home2/visual/public_html/app/date_region_list.php on line 34
+[20-Feb-2013 01:31:12] PHP Warning:  preg_match() [<a href='function.preg-match'>function.preg-match</a>]: No ending delimiter '/' found in /home2/visual/public_html/app/date_region_list.php on line 8
+[20-Feb-2013 01:38:16] PHP Warning:  preg_match() [<a href='function.preg-match'>function.preg-match</a>]: No ending delimiter '/' found in /home2/visual/public_html/app/date_region_list.php on line 8
+[20-Feb-2013 01:51:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/visual/public_html/app/details.php:1) in /home2/visual/public_html/app/details.php on line 3
+[20-Feb-2013 01:52:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/visual/public_html/app/details.php:1) in /home2/visual/public_html/app/details.php on line 3
+[20-Feb-2013 01:56:25] PHP Parse error:  syntax error, unexpected '{' in /home2/visual/public_html/app/date_region_list.php on line 13
+[20-Feb-2013 02:01:35] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/visual/public_html/app/details.php:1) in /home2/visual/public_html/app/details.php on line 3
+[20-Feb-2013 02:03:59] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home2/visual/public_html/app/date_region_list.php on line 8
+[20-Feb-2013 02:06:33] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home2/visual/public_html/app/date_region_list.php on line 8
+[20-Feb-2013 02:08:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/visual/public_html/app/details.php:1) in /home2/visual/public_html/app/details.php on line 3
+[20-Feb-2013 02:09:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/visual/public_html/app/details.php:1) in /home2/visual/public_html/app/details.php on line 3
+[20-Feb-2013 02:46:41] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php:3) in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php on line 20
+[20-Feb-2013 02:47:11] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php:3) in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php on line 20
+[20-Feb-2013 02:47:54] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php:3) in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php on line 20
+[25-Feb-2013 21:27:44] PHP Parse error:  syntax error, unexpected $end in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php on line 106
+[25-Feb-2013 21:28:32] PHP Parse error:  syntax error, unexpected $end in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php on line 106
+[25-Feb-2013 21:29:05] PHP Fatal error:  Cannot redeclare closetags() (previously declared in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php:57) in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php on line 57
+[25-Feb-2013 21:30:36] PHP Fatal error:  Cannot redeclare closetags() (previously declared in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php:57) in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php on line 57
+[25-Feb-2013 21:36:08] PHP Fatal error:  Cannot redeclare closetags() (previously declared in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php:57) in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php on line 57
+[25-Feb-2013 21:37:22] PHP Fatal error:  Cannot redeclare closetags() (previously declared in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php:57) in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php on line 57
+[25-Feb-2013 21:37:46] PHP Fatal error:  Cannot redeclare closetags() (previously declared in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php:57) in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php on line 57
+[25-Feb-2013 21:40:51] PHP Fatal error:  Cannot redeclare closetags() (previously declared in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php:57) in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php on line 57
+[25-Feb-2013 21:41:32] PHP Fatal error:  Cannot redeclare closetags() (previously declared in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php:57) in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php on line 57
+[25-Feb-2013 21:43:06] PHP Fatal error:  Cannot redeclare closetags() (previously declared in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php:57) in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php on line 57
+[25-Feb-2013 21:44:03] PHP Fatal error:  Cannot redeclare closetags() (previously declared in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php:57) in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php on line 57
+[25-Feb-2013 21:45:42] PHP Fatal error:  Cannot redeclare closetags() (previously declared in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php:57) in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php on line 57
+[25-Feb-2013 21:46:46] PHP Fatal error:  Cannot redeclare closetags() (previously declared in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php:57) in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php on line 57
+[25-Feb-2013 21:47:16] PHP Fatal error:  Cannot redeclare closetags() (previously declared in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php:57) in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php on line 57
+[25-Feb-2013 21:47:55] PHP Fatal error:  Cannot redeclare closetags() (previously declared in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php:57) in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php on line 57
+[25-Feb-2013 21:48:26] PHP Fatal error:  Cannot redeclare closetags() (previously declared in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php:57) in /home2/visual/public_html/app/phpsqlajax_genxml_regdate.php on line 57
