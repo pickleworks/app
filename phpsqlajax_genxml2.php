@@ -17,8 +17,8 @@ return $xmlStr;
 } 
 
 // Select all the rows in the markers table
-$query = "SELECT * FROM ".$events_table." WHERE date(event_dt)=curdate() OR (date(event_dt)<=curdate() AND date(event_edate)>=curdate())";
-//$query = "SELECT * FROM ".$events_table." WHERE event_dt=curdate() OR (event_dt<=curdate() AND event_edate>=curdate())";
+//$query = "SELECT * FROM ".$events_table." WHERE date(event_dt)=curdate() OR (date(event_dt)<=curdate() AND date(event_edate)>=curdate())";
+$query = "SELECT * FROM ".$events_table." WHERE event_dt=curdate() OR (event_dt<=curdate() AND event_edate>=curdate())";
 //$query = "SELECT * FROM ".$events_table." WHERE event_dt=curdate() OR (event_dt<=now() AND event_edate>=now())";
 
 if ($_GET['radius']!='') {
@@ -28,7 +28,8 @@ $result = mysql_query($query);
 if (!$result) {
   die('Invalid query: ' . mysql_error());
 }
-echo $query;
+
+//echo $query;
 // Start XML file, echo parent node
 // Iterate through the rows, printing XML nodes for each
 while ($row = @mysql_fetch_assoc($result)){

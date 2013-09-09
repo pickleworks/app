@@ -221,7 +221,7 @@
 			<div id="map" style="width: 100%; height: 100%;"></div>
 				<div id="directions"></div>
 				<?
-				include('geo_fix.php'); 
+				//include('geo_fix.php'); 
 				?>
 		</div>
 		<div id="footer" class="internal">

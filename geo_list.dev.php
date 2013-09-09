@@ -242,18 +242,18 @@
 include('geo_fix.php'); 
 
 
-echo "<table border=1 style='display:none;' >"; 
+echo "<table border=1>"; 
 echo "<tr>"; 
 echo "<td><b>Id</b></td>"; 
 echo "<td><b>Name</b></td>"; 
-echo "<td><b>Address</b></td>"; 
-echo "<td><b>City</b></td>"; 
-echo "<td><b>State</b></td>"; 
-echo "<td><b>ZipCode</b></td>"; 
-echo "<td><b>Status</b></td>"; 
-echo "<td><b>EventDate</b></td>"; 
-echo "<td><b>Notes</b></td>"; 
-echo "<td><b>URL</b></td>"; 
+//echo "<td><b>Address</b></td>"; 
+//echo "<td><b>City</b></td>"; 
+//echo "<td><b>State</b></td>"; 
+//echo "<td><b>ZipCode</b></td>"; 
+//echo "<td><b>Status</b></td>"; 
+//echo "<td><b>EventDate</b></td>"; 
+//echo "<td><b>Notes</b></td>"; 
+//echo "<td><b>URL</b></td>"; 
 echo "<td><b>Lat</b></td>"; 
 echo "<td><b>Long</b></td>"; 
 echo "</tr>"; 
@@ -265,23 +265,22 @@ $result = mysql_query($sql) or trigger_error(mysql_error());
 while($row = mysql_fetch_array($result)){ 
 foreach($row AS $key => $value) { $row[$key] = stripslashes($value); } 
 echo "<tr>";  
-echo "<td valign='top'>" . nl2br( $row['event_id']) . "</td>";  
-echo "<td valign='top'>" . nl2br( $row['eventname']) . "</td>";  
-echo "<td valign='top'>" . nl2br( $row['event_addr']) . "</td>";  
-echo "<td valign='top'>" . nl2br( $row['event_city']) . "</td>";  
-echo "<td valign='top'>" . nl2br( $row['event_state']) . "</td>";  
-echo "<td valign='top'>" . nl2br( $row['event_zip']) . "</td>";  
-echo "<td valign='top'>" . nl2br( $row['event_dt']) . "</td>";  
-echo "<td valign='top'>" . nl2br( $row['event_detail']) . "</td>";  
-echo "<td valign='top'>" . nl2br( $row['weblink']) . "</td>";  
-echo "<td valign='top'>" . nl2br( $row['lat']) . "</td>";  
-echo "<td valign='top'>" . nl2br( $row['lng']) . "</td>";  
+echo "<td>" . $row['event_id'] . "</td>";  
+echo "<td>" . nl2br( $row['eventname']). "</td>";  
+//echo "<td valign='top'>" . nl2br( $row['event_addr']). "</td>";  
+//echo "<td valign='top'>" . nl2br( $row['event_city']). "</td>";  
+//echo "<td valign='top'>" . nl2br( $row['event_state']). "</td>";  
+//echo "<td valign='top'>" .nl2br( $row['event_zip']). "</td>";  
+//echo "<td valign='top'>" .nl2br( $row['event_dt']). "</td>";  
+//echo "<td valign='top'>" .nl2br( $row['event_detail']). "</td>";  
+//echo "<td valign='top'>" .nl2br( $row['weblink']). "</td>";  
+echo "<td >" .nl2br( $row['lat']). "</td>";  
+echo "<td >" .nl2br( $row['lng']). "</td>";  
 //echo "<td valign='top'><a href=geo_edit.php?id={$row['id']}>Edit</a></td><td><a href=geo_delete.php?id={$row['id']}>Delete</a></td> "; 
 echo "</tr>"; 
 } 
 echo "</table>"; 
 ?>
-		</div>
 		<div id="footer" class="internal">
 		<p><a href="/app/" data-ajax="false"><img src="img/back.png" class="back" /></a><a href="http://www.sdvisualarts.net" target="_blank">SDVisualArts.net</a></p>
 		</div>
