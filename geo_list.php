@@ -170,7 +170,7 @@
 			var infoWindow = new google.maps.InfoWindow({
 			//disableAutoPan: true
 			});
-			downloadUrl("/app/phpsqlajax_genxml2.php?radius="+radius+"&lat="+lat+"&lon="+lon, function(data) {			
+			downloadUrl("/SDVisualArts/phpsqlajax_genxml2.php?radius="+radius+"&lat="+lat+"&lon="+lon, function(data) {			
 				var xml = data.responseXML;
 				var markers = xml.documentElement.getElementsByTagName("marker");
 				for (var i = 0; i < markers.length; i++) {
