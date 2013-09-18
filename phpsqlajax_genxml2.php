@@ -1,6 +1,6 @@
 <?php
-header("Content-type: text/xml");
-echo '<markers>';
+header("Content-Type: application/xml; charset=utf-8");
+echo '<?xml version="1.0" encoding="UTF-8"?><markers>';
 require("include/calvars.inc.php");
 $link = mysql_connect($host, $user, $pwd);
 if (!$link) die('Not connected : ' . mysql_error());
@@ -8,12 +8,14 @@ if (!mysql_select_db($db)) die ('Can\'t use foo : ' . mysql_error());
 
 function parseToXML($htmlStr) 
 { 
-$xmlStr=str_replace('<','&lt;',$htmlStr); 
-$xmlStr=str_replace('>','&gt;',$xmlStr); 
-$xmlStr=str_replace('"','&quot;',$xmlStr); 
-$xmlStr=str_replace("'",'&#39;',$xmlStr); 
-$xmlStr=str_replace("&",'&amp;',$xmlStr); 
-return $xmlStr; 
+	$xmlStr=utf8_encode($htmlStr);
+	$xmlStr=str_replace('<','&lt;',$xmlStr); 
+	$xmlStr=str_replace('>','&gt;',$xmlStr); 
+	$xmlStr=str_replace('"','&quot;',$xmlStr); 
+	$xmlStr=str_replace("'",'&#39;',$xmlStr); 
+	$xmlStr=str_replace("&",'&amp;',$xmlStr); 
+			
+	return $xmlStr; 
 } 
 
 // Select all the rows in the markers table
@@ -35,7 +37,7 @@ if (!$result) {
 while ($row = @mysql_fetch_assoc($result)){
 
 if ( strlen($row['event_detail']) > 89 ) {
-	$notes =  substr($row['event_detail'],0,90) . "...";
+	$notes =  parseToXML(substr($row['event_detail'],0,90)) . "...";
 } else {
 	$notes =  $row['event_detail'];
 }
