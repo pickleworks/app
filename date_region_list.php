@@ -1,9 +1,9 @@
 <?php 
-	if ($_POST['radius']!='') {
-		$currentRadius=$_POST['radius'];
-	} else {
+	//if ($_POST['radius']!='') {
+	//	$currentRadius=$_POST['radius'];
+	//} else {
 		$currentRadius=500;
-	}	
+	//}	
 	session_start();
 	if ($_POST['date']!='') {
 		//$searchDateDisplay=date('F j, Y');
@@ -107,7 +107,13 @@
 				echo 'var nbhLon=-117.0182040;';
 				break;
 			case 'All Neighborhoods':
+				echo 'var nbhSet=1;';
+				echo 'var nbhLat=32.71131630;';
+				echo 'var nbhLon=-117.15999880;';
+				break;
 			case 'Current Location':
+				echo 'var nbhSet=-1;';
+				break;
 			default:
 				echo 'var nbhSet=0;';
 		}
@@ -116,6 +122,9 @@
 	<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
 	<script src="geo.js" type="text/javascript" ></script>
 	<script type='text/javascript'>
+	<?php if ($searchNeighborhood == 'Current Location') : ?>
+	load2();
+	<?php endif; ?>
 		var lat=0;
 		var lon=0;
 		var mobile = (/iphone|ipod|android|blackberry|phone|mini|windows\sce|palm/i.test(navigator.userAgent.toLowerCase()));
@@ -124,23 +133,44 @@
 		}
 		//determine if the handset has client side geo location capabilities
 		function load() {
-			if(geo_position_js.init()){
-				geo_position_js.getCurrentPosition(success_callback,error_callback);
-			} else {
+			//if(geo_position_js.init()){
+			//	geo_position_js.getCurrentPosition(success_callback,error_callback);
+			//} else {
 				// no coordinate capability on device
 				display();
-			}
+			//}
 		}
 		function success_callback(p) {
 			// we have coordinates of device
 			lat=p.coords.latitude;
 			lon=p.coords.longitude;
 			display();
+			
 		}
 		function error_callback(p) {
 			// alert('error='+p.code);
 			// if we can't get coordinates do we direct back to non-mobile or use local or some other behavior
 			display();
+		}
+		function success_callback2(p) {
+			// we have coordinates of device
+			lat=p.coords.latitude;
+			lon=p.coords.longitude;
+			display();
+			
+		}
+		function error_callback2(p) {
+			// alert('error='+p.code);
+			// if we can't get coordinates do we direct back to non-mobile or use local or some other behavior
+			display();
+		}
+		function load2() {
+			if(geo_position_js.init()){
+				geo_position_js.getCurrentPosition(success_callback2,error_callback2);
+			} else {
+				// no coordinate capability on device
+				display();
+			}
 		}
 		var customIcons = {
 			Events: {
@@ -186,7 +216,7 @@
 			}
 			if (lat==0) {
 				// need to remove option from form for "Current Location"
-				$('#neighborhood option[value="Current Location"]').remove();
+				//$('#neighborhood option[value="Current Location"]').remove();
 				lat=32.7153;
 				lon=-117.1564;
 			}
@@ -198,12 +228,12 @@
 			<?php if ($searchNeighborhood == 'All Neighborhoods') : ?>
 				var map = new google.maps.Map(document.getElementById("map"), {
 					center: new google.maps.LatLng(lat, lon),
-					zoom: 11,
+					zoom: 9,
 					mapTypeId: 'roadmap',
 					bounds: true,
 					zoomControl: false
 				});
-			<?php else : ?>
+			<?php elseif ($searchNeighborhood == 'Current Location') : ?>
 				var map = new google.maps.Map(document.getElementById("map"), {
 					center: new google.maps.LatLng(lat, lon),
 					zoom: 13,
@@ -211,9 +241,18 @@
 					bounds: true,
 					zoomControl: false
 				});
+			<?php else : ?>
+				var map = new google.maps.Map(document.getElementById("map"), {
+					center: new google.maps.LatLng(lat, lon),
+					zoom: 11,
+					mapTypeId: 'roadmap',
+					bounds: true,
+					zoomControl: false
+				});
 			<?php endif; ?>
 			var infoWindow = new google.maps.InfoWindow;
-			downloadUrl("/app/phpsqlajax_genxml_regdate.php?radius="+radius+"&lat="+lat+"&lon="+lon+"&date="+date, function(data) {			
+			// downloadUrl("/SDVisualArts/phpsqlajax_genxml_regdate.php?radius="+radius+"&town_area="+neighborhood+"&date="+date+"&lat="+lat+"&lon="+lon, function(data) {			
+			downloadUrl("/SDVisualArts/phpsqlajax_genxml_NewRegDate.php?radius="+radius+"&lat="+lat+"&lon="+lon+"&date="+date+"&town_area="+neighborhood, function(data) {			
 				var xml = data.responseXML;
 				var markers = xml.documentElement.getElementsByTagName("marker");
 				for (var i = 0; i < markers.length; i++) {
@@ -260,18 +299,18 @@
 //echo mysql_query("show columns '".$events_table."'"); ?>
 		<div id="wrapper">
 		<div id="header" class="internal">
-			<a href="/app/datepicker.php"><img src="img/sdvan-header-by-date.png" class="header-internal"/></a>
+			<a href="/SDVisualArts"><img src="img/sdvan-header-by-date.png" class="header-internal"/></a>
 			<p class="date">Art Events on <?php echo $searchDateDisplay; ?><?php if ($_POST['neighborhood'] != '') : ?><br />in <?php echo $_POST['neighborhood']; ?><?php elseif ($_SESSION['neighborhood'] != '') : ?><br />in <?php echo $_SESSION['neighborhood']; ?><?php endif; ?></p>				
 		</div>
 		<div id="body" class="internal">
 <div id="map" style="width: 100%; height: 100%;"></div>
 <div id="directions"></div>
 <?
-include('geo_fix.php'); 
+//include('geo_fix.php'); 
 ?>
 </div>
 		<div id="footer" class="internal">
-		<p><a href="/app/datepicker.php" data-ajax="false"><img src="img/back.png" class="back" /></a><a href="http://www.sdvisualarts.net" target="_blank">SDVisualArts.net</a></p>
+		<p><a href="datepicker.php" data-ajax="false"><img src="img/back.png" class="back" /></a><a href="http://www.sdvisualarts.net" target="_blank">SDVisualArts.net</a></p>
 		</div>
 		</div>
         <script src="js/vendor/zepto.min.js"></script>

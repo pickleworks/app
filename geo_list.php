@@ -158,6 +158,9 @@
 				lat=nbhLat;
 				lon=nbhLon;
 			}
+			
+						
+			
 			var map = new google.maps.Map(document.getElementById("map"), {
 				center: new google.maps.LatLng(lat, lon),
 				zoom: 13,
@@ -165,10 +168,22 @@
 				bounds: true,
 				zoomControl: false
 			});
+// 			geocoder = new google.maps.Geocoder();	
+// 		    var address = "1690 Wandering Road, Encinitas, CA  92024";
+// 		    geocoder.geocode( { 'address': address}, function(results, status) {
+// 		      if (status == google.maps.GeocoderStatus.OK) {
+// 		        map.setCenter(results[0].geometry.location);
+		        
+// 		      } else {
+// 		        alert("Geocode was not successful for the following reason: " + status);
+// 		      }
+// 		    });
+			  
 			//alert(lat+','+lon);
 			// my house = 32.7449017,-117.1470023;
 			var infoWindow = new google.maps.InfoWindow({
 			//disableAutoPan: true
+				
 			});
 			downloadUrl("/SDVisualArts/phpsqlajax_genxml2.php?radius="+radius+"&lat="+lat+"&lon="+lon, function(data) {			
 				var xml = data.responseXML;
@@ -214,7 +229,7 @@
     <body>
 		<div id="wrapper">
 		<div id="header" class="internal">
-		<a href="/app"><img src="img/sdvan-header-internal.png" class="header-internal"/></a>
+		<a href="/SDVisualArts/"><img src="img/sdvan-header-internal.png" class="header-internal"/></a>
 		<p class="date">Art Events on <?php echo date("F j, Y"); ?></p>
 		</div>
 		<div id="body" class="internal">
@@ -224,8 +239,10 @@
 				//include('geo_fix.php'); 
 				?>
 		</div>
+		
+		
 		<div id="footer" class="internal">
-		<p><a href="/app/" data-ajax="false"><img src="img/back.png" class="back" /></a><a href="http://www.sdvisualarts.net" target="_blank">SDVisualArts.net</a></p>
+		<p><a href="/SDVisualArts/" data-ajax="false"><img src="img/back.png" class="back" /></a><a href="http://www.sdvisualarts.net" target="_blank">SDVisualArts.net</a></p>
 		</div>
 		</div>
 		<script src="js/vendor/zepto.min.js"></script>

@@ -41,7 +41,7 @@ if (!mysql_select_db($db)) die ('Can\'t use foo : ' . mysql_error());
 
 		<div id="wrapper">
 		<div id="header" class="internal">
-		<a href="/app"><img src="img/sdvan-header-details.png" class="header-internal"/></a>
+		<a href="/SDVisualArts"><img src="img/sdvan-header-details.png" class="header-internal"/></a>
 		</div>
 		<div id="body" class="internal details">
 		
@@ -67,19 +67,19 @@ if (!mysql_select_db($db)) die ('Can\'t use foo : ' . mysql_error());
 			$dd=$dt[8].$dt[9]+0;
 			$mm=$dt[5].$dt[6]+0;
 			$yy=$dt[0].$dt[1].$dt[2].$dt[3]+0;
-			$stdate=$dd."-".$mm."-".$yy;
+			$stdate=$yy."-".$mm."-".$dd;
 			
 			$dt=$data['event_edate'];
 			$dd=$dt[8].$dt[9]+0;
 			$mm=$dt[5].$dt[6]+0;
 			$yy=$dt[0].$dt[1].$dt[2].$dt[3]+0;
-			$edate=$dd."-".$mm."-".$yy;
+			$edate=$yy."-".$mm."-".$dd;
 			
 			$dt=$data['rec_dt'];
 			$dd=$dt[8].$dt[9]+0;
 			$mm=$dt[5].$dt[6]+0;
 			$yy=$dt[0].$dt[1].$dt[2].$dt[3]+0;
-			$rec_dt=$dd."-".$mm."-".$yy;
+			$rec_dt=$yy."-".$mm."-".$dd;
 			
 			$t2=$data['open_hrs'];
 			$hho=$t2[0].$t2[1]+0;

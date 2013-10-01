@@ -64,7 +64,7 @@
     <body>
 		<div id="wrapper">
 			<div id="header" class="internal">
-				<a href="/app/" data-ajax="false"><img src="img/sdvan-header-by-date.png" class="header-internal"/></a>
+				<a href="/SDVisualArts/" data-ajax="false"><img src="img/sdvan-header-by-date.png" class="header-internal"/></a>
 			</div>
 			<div id="body" class="internal details">
 				<article>
@@ -92,7 +92,7 @@
 				</article>
 			</div>
 			<div id="footer" class="internal details">
-			<p><a href="/app/" data-ajax="false"><img src="img/back.png" class="back" /></a><a href="http://www.sdvisualarts.net" target="_blank">SDVisualArts.net</a></p>
+			<p><a href=/SDVisualArts/" data-ajax="false"><img src="img/back.png" class="back" /></a><a href="http://www.sdvisualarts.net" target="_blank">SDVisualArts.net</a></p>
 			</div>
 		</div>
         <script src="js/vendor/zepto.min.js"></script>
