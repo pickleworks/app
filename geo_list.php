@@ -226,7 +226,7 @@
 		});
 	</script>
 </head>
-    <body>
+    <body id="listingDetails">
 		<div id="wrapper">
 		<div id="header" class="internal">
 		<a href="/SDVisualArts/"><img src="img/sdvan-header-internal.png" class="header-internal"/></a>

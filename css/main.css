@@ -314,13 +314,19 @@ and (orientation:landscape) {
 @media only screen 
 and (min-width: 300px) 
 and (orientation:portrait) {
-		div#header.home {padding: 2%; width: 100%; display: block; height: 40%; }
+		div#header.home {padding: 2%; width: 100%; display: block; /*height: 40%;*/ }
 		div#body.home { background-position: -270px -25px; height: 300px; }
 		nav ul { left: -9%; top: 6px;}
 		nav ul li img.menu { width: 300px;}	
 		#footer p { margin: 0; padding: 0; margin-top: 2px; padding-top: 5px; font-size: 80%; }
 		#footer p.info { margin-top: 0px; padding-top: 3px; font-size: 12px; }	
+		
+        /* new styles */
+		#map { height: 50%!important; }
+		#listingDetails #map { height: 100%%!important; }
 }
+		
+		
 
 @media only screen 
 and (max-width: 320px) 
@@ -365,7 +371,7 @@ and (orientation:landscape) {
 @media screen 
 and (min-width: 599px) 
 and (orientation:landscape) {
-	div#header.home {padding: 2%; width: 100%; display: block; height: 43%;}
+	div#header.home {padding: 2%; width: 100%; display: block; /*height: 43%;*/}
 	nav ul {right: 5%; top: -15px;}
 	nav ul li img.menu {width: 280px;}
 	div#footer.home {display: block; width: 100%; height: auto; bottom: 0px;
