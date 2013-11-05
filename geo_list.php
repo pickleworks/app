@@ -185,7 +185,7 @@
 			//disableAutoPan: true
 				
 			});
-			downloadUrl("/SDVisualArts/phpsqlajax_genxml2.php?radius="+radius+"&lat="+lat+"&lon="+lon, function(data) {			
+			downloadUrl("/app/phpsqlajax_genxml2.php?radius="+radius+"&lat="+lat+"&lon="+lon, function(data) {			
 				var xml = data.responseXML;
 				var markers = xml.documentElement.getElementsByTagName("marker");
 				for (var i = 0; i < markers.length; i++) {
@@ -229,7 +229,7 @@
     <body id="listingDetails">
 		<div id="wrapper">
 		<div id="header" class="internal">
-		<a href="/SDVisualArts/"><img src="img/sdvan-header-internal.png" class="header-internal"/></a>
+		<a href="/app/"><img src="img/sdvan-header-internal.png" class="header-internal"/></a>
 		<p class="date">Art Events on <?php echo date("F j, Y"); ?></p>
 		</div>
 		<div id="body" class="internal">
@@ -242,7 +242,7 @@
 		
 		
 		<div id="footer" class="internal">
-		<p><a href="/SDVisualArts/" data-ajax="false"><img src="img/back.png" class="back" /></a><a href="http://www.sdvisualarts.net" target="_blank">SDVisualArts.net</a></p>
+		<p><a href="/app/" data-ajax="false"><img src="img/back.png" class="back" /></a><a href="http://www.sdvisualarts.net" target="_blank">SDVisualArts.net</a></p>
 		</div>
 		</div>
 		<script src="js/vendor/zepto.min.js"></script>

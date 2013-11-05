@@ -252,7 +252,7 @@
 			<?php endif; ?>
 			var infoWindow = new google.maps.InfoWindow;
 			// downloadUrl("/SDVisualArts/phpsqlajax_genxml_regdate.php?radius="+radius+"&town_area="+neighborhood+"&date="+date+"&lat="+lat+"&lon="+lon, function(data) {			
-			downloadUrl("/SDVisualArts/phpsqlajax_genxml_NewRegDate.php?radius="+radius+"&lat="+lat+"&lon="+lon+"&date="+date+"&town_area="+neighborhood, function(data) {			
+			downloadUrl("/app/phpsqlajax_genxml_NewRegDate.php?radius="+radius+"&lat="+lat+"&lon="+lon+"&date="+date+"&town_area="+neighborhood, function(data) {			
 				var xml = data.responseXML;
 				var markers = xml.documentElement.getElementsByTagName("marker");
 				for (var i = 0; i < markers.length; i++) {

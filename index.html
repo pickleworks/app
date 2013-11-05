@@ -129,7 +129,7 @@
 			//disableAutoPan: true
 			});
 			//downloadUrl("/SDVisualArts/phpsqlajax_genxml2.php?radius="+radius+"&lat="+lat+"&lon="+lon, function(data) {	
-			  downloadUrl("/SDVisualArts/phpsqlajax_genxmlFeaturedEvent.php", function(data) {	
+			  downloadUrl("/app/phpsqlajax_genxmlFeaturedEvent.php", function(data) {	
 				var xml = data.responseXML;
 				var markers = xml.documentElement.getElementsByTagName("marker");
 				for (var i = 0; i < markers.length; i++) {
