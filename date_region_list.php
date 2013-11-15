@@ -230,7 +230,8 @@
 					zoom: 9,
 					mapTypeId: 'roadmap',
 					bounds: true,
-					zoomControl: false
+					zoomControl: true,
+					zoomControlOptions: {style:google.maps.ZoomControlStyle.SMALL}
 				});
 			<?php elseif ($searchNeighborhood == 'Current Location') : ?>
 				var map = new google.maps.Map(document.getElementById("map"), {
@@ -238,7 +239,8 @@
 					zoom: 13,
 					mapTypeId: 'roadmap',
 					bounds: true,
-					zoomControl: false
+					zoomControl: true,
+					zoomControlOptions: {style:google.maps.ZoomControlStyle.SMALL}
 				});
 			<?php else : ?>
 				var map = new google.maps.Map(document.getElementById("map"), {
@@ -246,7 +248,8 @@
 					zoom: 11,
 					mapTypeId: 'roadmap',
 					bounds: true,
-					zoomControl: false
+					zoomControl: true,
+					zoomControlOptions: {style:google.maps.ZoomControlStyle.SMALL}
 				});
 			<?php endif; ?>
 			var infoWindow = new google.maps.InfoWindow;

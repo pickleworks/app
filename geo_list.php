@@ -165,7 +165,8 @@
 				zoom: 13,
 				mapTypeId: 'roadmap',
 				bounds: true,
-				zoomControl: false
+				zoomControl: true,
+				zoomControlOptions: {style:google.maps.ZoomControlStyle.SMALL}
 			});
 // 			geocoder = new google.maps.Geocoder();	
 // 		    var address = "1690 Wandering Road, Encinitas, CA  92024";

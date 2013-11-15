@@ -167,7 +167,8 @@
 				zoom: 10,
 				mapTypeId: 'roadmap',
 				bounds: true,
-				zoomControl: false
+				zoomControl: true,
+				zoomControlOptions: {style:google.maps.ZoomControlStyle.SMALL}
 			});
 			var infoWindow = new google.maps.InfoWindow;
 			downloadUrl("/app/phpsqlajax_genxml_regdate.php?radius=500&lat="+lat+"&lon="+lon+"&date="+date, function(data) {			
