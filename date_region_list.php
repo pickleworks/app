@@ -286,6 +286,11 @@
 				infoWindow.setContent(html);
 				infoWindow.open(map, marker);
 			});
+
+			google.maps.event.addListener(marker, 'mouseover', function() {
+				infoWindow.setContent(html);
+				infoWindow.open(map, marker);
+			});
 		}
 
 		function doNothing() {
@@ -301,7 +306,7 @@
 //echo mysql_query("show columns '".$events_table."'"); ?>
 		<div id="wrapper">
 		<div id="header" class="internal">
-			<a href="/SDVisualArts"><img src="img/sdvan-header-by-date.png" class="header-internal"/></a>
+			<a href="/app"><img src="img/sdvan-header-by-date.png" class="header-internal"/></a>
 			<p class="date">Art Events on <?php echo $searchDateDisplay; ?><?php if ($_POST['neighborhood'] != '') : ?><br />in <?php echo $_POST['neighborhood']; ?><?php elseif ($_SESSION['neighborhood'] != '') : ?><br />in <?php echo $_SESSION['neighborhood']; ?><?php endif; ?></p>				
 		</div>
 		<div id="body" class="internal">

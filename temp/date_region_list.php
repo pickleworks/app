@@ -245,6 +245,11 @@
 				infoWindow.setContent(html);
 				infoWindow.open(map, marker);
 			});
+
+			google.maps.event.addListener(marker, 'mouseover', function() {
+				infoWindow.setContent(html);
+				infoWindow.open(map, marker);
+			})
 		}
 
 		function doNothing() {
