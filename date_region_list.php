@@ -317,8 +317,9 @@
 ?>
 </div>
 		<div id="footer" class="internal">
-		<p><a href="datepicker.php" data-ajax="false"><img src="img/back.png" class="back" /></a><a href="http://www.sdvisualarts.net" target="_blank">SDVisualArts.net</a></p>
-		</div>
+	
+		<table id="tableFooter" ><tr><td width="53%" align="right"><p><a href="datepicker.php" data-ajax="false"><img src="img/back.png" class="back" /></a><a href="http://www.sdvisualarts.net" target="_blank">SDVisualArts.net</a></p></td><td width="47%" align="right"><p class="info"><a href="http://sdvan.weebly.com/helpfaq.html" target="_blank"><img align="right" src="img/help_black.png" height="25" width="25"/></a></p></td></tr></table>
+				
 		</div>
         <script src="js/vendor/zepto.min.js"></script>
         <script src="js/helper.js"></script>

@@ -189,9 +189,16 @@ if (!mysql_select_db($db)) die ('Can\'t use foo : ' . mysql_error());
 	</article>
 </div>
 <div id="footer" class="internal">
-		<p><?php if ($_SERVER['HTTP_REFERER'] != '') : ?><a href="<?php echo $_SERVER['HTTP_REFERER'] ?>" data-ajax="false"><img src="img/back.png" class="back" /></a><?php endif; ?><a href="http://www.sdvisualarts.net" target="_blank">SDVisualArts.net</a></p>
-		</div>
-		</div>
+		<table id="tableFooter" ><tr><td width="53%" align="right">
+		<p><?php if ($_SERVER['HTTP_REFERER'] != '') : ?><a href="<?php echo $_SERVER['HTTP_REFERER'] ?>" data-ajax="false">
+		<img src="img/back.png" class="back" /></a><?php endif; ?>
+		<a href="http://www.sdvisualarts.net" target="_blank">SDVisualArts.net</a></p>
+		
+		</td>
+		<td width="47%" align="right"><p class="info">
+		<a href="http://sdvan.weebly.com/helpfaq.html" target="_blank"><img align="right" src="img/help_black.png" height="25" width="25"/></a></p></td></tr></table>
+			
+</div>
         <script src="js/vendor/zepto.min.js"></script>
         <script src="js/helper.js"></script>
     </body>

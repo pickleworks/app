@@ -168,6 +168,19 @@ border-top: 1px solid #891647;
 #body.internal article {display: block; width: 70%; margin: 0 auto;}
 #body.internal img.event-feat-img {max-width: 94%; float: none; clear: both; display: block; margin: 20px 0; position: relative;}
 
+#tableFooter {
+	width:100%;
+	padding:0px 0px 0px 0px;
+	border-collapse:collapse;
+	border-spacing:0;
+	border-style: none;
+	
+}
+#tableFooter td{
+	padding:0px;
+	
+}
+
 /* INTERNAL FONTS */
 h1 {text-transform: uppercase; color: #c3205f; font-weight: 700; margin: 10px 0 0 0; font-size: 150%; line-height: 1em;}
 #body.internal p.directions-link a {text-transform: uppercase; color:#fb9934; font-weight: 700; text-decoration: underline;}
