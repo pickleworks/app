@@ -239,18 +239,18 @@
 		<a href="/app/"><img src="img/sdvan-header-internal.png" class="header-internal"/></a>
 		<p class="date">Art Events on <?php echo date("F j, Y"); ?></p>
 		</div>
-		<div id="body" class="internal">
-			<div id="map" style="width: 100%; height: 100%;"></div>
-				<div id="directions"></div>
-				<?
-				//include('geo_fix.php'); 
-				?>
+		<div id="body" style="display:inline; background-color: white, white">
+			<div id="map" style="width: 100%; height: 69%;"></div>
+			<div id="directions"></div>
 		</div>
-		
-		
 		<div id="footer" class="internal">
-		<table id="tableFooter" ><tr><td width="53%" align="right"><p><a href="/app/" data-ajax="false"><img src="img/back.png" class="back" /></a><a href="http://www.sdvisualarts.net" target="_blank">SDVisualArts.net</a></p></td><td width="47%" align="right"><p class="info"><a href="http://sdvan.weebly.com/helpfaq.html" target="_blank"><img align="right" src="img/help_black.png" height="25" width="25"/></a></p></td></tr></table>
+			<table id="tableFooter" >
+				<tr><td width="53%" align="right"><p ><a href="/app/" data-ajax="false"><img src="img/back.png" class="back" /></a><a href="http://www.sdvisualarts.net" target="_blank">SDVisualArts.net</a></p></td>
+				<td width="47%" align="right"><p><a href="http://sdvan.weebly.com/helpfaq.html" target="_blank"><img align="right" src="img/help_black.png" height="35" width="35"/></a></p></td>
+				</tr>
+			</table>
 		</div>
+		
 		</div>
 		<script src="js/vendor/zepto.min.js"></script>
 		<script src="js/helper.js"></script>

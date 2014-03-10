@@ -98,7 +98,7 @@ background: -ms-linear-gradient(top, #96174c 0%,#b01c5a 10%,#bc1e5e 51%,#ab1b58 
 background: linear-gradient(to bottom, #96174c 0%,#b01c5a 10%,#bc1e5e 51%,#ab1b58 87%,#96174c 100%); /* W3C */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#96174c', endColorstr='#96174c',GradientType=0 ); /* IE6-9 */
 text-align: center;
-padding: 5% 0%;
+padding: 1% 0%;
 border-bottom: 1px solid black;
 
 }
@@ -141,24 +141,26 @@ border-top: 1px solid #891647;
 }
 
 #footer p {
-	font-size: 0.65em;
+	font-size: 0.95em;
 	text-shadow: 2px 2px 3px #161617;
     filter: dropshadow(color=#161617, offx=2, offy=2);
 	color: white;
-	height: 35px;
 	overflow: hidden;
+	height: 35px;
 	}
-#footer p.info {padding-top: 4px; height: 20px; border-top:1px solid #891647;}
+#footer p.info { padding-top: 4px; height: 20px; border-top:1px solid #891647;}
 #footer p a:link,
 #footer p a:active,
 #footer p a:hover,
 #footer p a:visited {color: white; font-weight: 700;}
+#footer table {width: 100%; }
+#footer table td,th { padding: 5px; margin: 0px; }
 
 /* INTERNAL LAYOUT */
 
 #header.internal {padding: 10px 0px; height: auto; text-align: center;}
 #header img.header-internal {width: 60%;}
-#body.internal {background: white; overflow: auto; }
+#body.internal {background: white; overflow: auto;}
 /* #body.details {overflow:auto; height: 80%; top: auto; bottom: auto;} */
 #body.internal article {padding: 0 0 60px 0;}
 #footer.internal {padding: 0px; display: block; width: 100%; height: auto; bottom: 0px; }
@@ -168,18 +170,7 @@ border-top: 1px solid #891647;
 #body.internal article {display: block; width: 70%; margin: 0 auto;}
 #body.internal img.event-feat-img {max-width: 94%; float: none; clear: both; display: block; margin: 20px 0; position: relative;}
 
-#tableFooter {
-	width:100%;
-	padding:0px 0px 0px 0px;
-	border-collapse:collapse;
-	border-spacing:0;
-	border-style: none;
-	
-}
-#tableFooter td{
-	padding:0px;
-	
-}
+
 
 /* INTERNAL FONTS */
 h1 {text-transform: uppercase; color: #c3205f; font-weight: 700; margin: 10px 0 0 0; font-size: 150%; line-height: 1em;}
@@ -306,7 +297,7 @@ textarea[contenteditable] {
 
 .clearfix {
     *zoom: 1;
-}
+} 
 
 /* ==========================================================================
    EXAMPLE Media Queries for Responsive Design.
@@ -327,7 +318,17 @@ and (orientation:landscape) {
 @media only screen 
 and (min-width: 300px) 
 and (orientation:portrait) {
-		div#header.home {padding: 2%; width: 100%; display: block; /*height: 40%;*/ }
+		div#header.home {padding: 1%; width: 100%; display: inline; height: 50px;
+			background: #c92162; /* Old browsers */
+			background: -moz-linear-gradient(top,  #c92162 0%, #bc1e5e 72%, #96174c 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c92162), color-stop(72%,#bc1e5e), color-stop(100%,#96174c)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(top,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(top,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* Opera 11.10+ */
+			background: -ms-linear-gradient(top,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* IE10+ */
+			background: linear-gradient(to bottom,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* W3C */
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c92162', endColorstr='#96174c',GradientType=0 ); /* IE6-9 */
+		}
+
 		div#body.home { background-position: -270px -25px; height: 300px; }
 		nav ul { left: -9%; top: 6px;}
 		nav ul li img.menu { width: 300px;}	
@@ -344,7 +345,16 @@ and (orientation:portrait) {
 @media only screen 
 and (max-width: 320px) 
 and (orientation:portrait) {
-		div#header.home {padding: 2%; width: 100%; display: block; height: 40%; }
+		div#header.home {padding: 2%; width: 100%; display: block; height: 40%;
+		background: #c92162; /* Old browsers */
+			background: -moz-linear-gradient(top,  #c92162 0%, #bc1e5e 72%, #96174c 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c92162), color-stop(72%,#bc1e5e), color-stop(100%,#96174c)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(top,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(top,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* Opera 11.10+ */
+			background: -ms-linear-gradient(top,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* IE10+ */
+			background: linear-gradient(to bottom,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* W3C */
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c92162', endColorstr='#96174c',GradientType=0 ); /* IE6-9 */
+		}
 		div#body.home { background-position: -270px -25px; height: 300px; }
 		nav ul { left: -11%; top: -6px;}
 		nav ul li img.menu { width: 300px;}	
@@ -384,7 +394,16 @@ and (orientation:landscape) {
 @media screen 
 and (min-width: 599px) 
 and (orientation:landscape) {
-	div#header.home {padding: 2%; width: 100%; display: block; /*height: 43%;*/}
+	div#header.home {padding: 2%; width: 100%; display: block;
+	background: #c92162; /* Old browsers */
+	background: -moz-linear-gradient(top,  #c92162 0%, #bc1e5e 72%, #96174c 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c92162), color-stop(72%,#bc1e5e), color-stop(100%,#96174c)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c92162', endColorstr='#96174c',GradientType=0 ); /* IE6-9 */
+	}
 	nav ul {right: 5%; top: -15px;}
 	nav ul li img.menu {width: 280px;}
 	div#footer.home {display: block; width: 100%; height: auto; bottom: 0px;
@@ -479,13 +498,13 @@ and (orientation:landscape) {
 	and (-webkit-min-device-pixel-ratio: 1.5)
     and (device-width: 320px)
     and (orientation: portrait) {
-		div#header.home {padding: 2%; width: 100%; display: block; height: 40%; }
+		div#header.home {padding: 2%; width: 100%; display: block; height: 35%;}
 		div#body.home { background-position: -270px -25px; }
 		nav ul { left: -12%; top: -15px;}
-		nav ul li img.menu { width: 300px;}	
+		nav ul li img.menu { width: 300px; height:45px}	
 		#footer p { margin: 0; padding: 0; margin-top: 2px; padding-top: 5px; font-size: 80%; }
 		#footer p.info { margin-top: 0px; padding-top: 3px; font-size: 12px; }	
-		div.infowin { width: 220px; }		
+		div.infowin { width: 350px; }		
 }
 @media only screen 
 	and (-webkit-min-device-pixel-ratio: 1.5)
@@ -573,5 +592,6 @@ a.infoWinTitleURL { display: block; text-transform: uppercase; }
 a.closest {  }
 /* div.infowin { margin-left: -20px; border: 4px solid blue; display: block; } */
 /* div.InfoWindow { left: -20 !important; border: 5px solid red; } */
+div.infowin { width: 220px; }		
 
-		div.infowin { width: 220px; }		
+

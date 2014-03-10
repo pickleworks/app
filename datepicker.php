@@ -65,8 +65,9 @@
 			<div id="header" class="internal">
 				<a href="/app/" data-ajax="false"><img src="img/sdvan-header-by-date.png" class="header-internal"/></a>
 			</div>
-			<div id="body" class="internal details">
+			<div id="body" class="internal details" style="display:inline-block; background-color: white, white; width: 100%; height:72%">
 				<article>
+				
 					<form method="POST" action="date_region_list.php" data-ajax="false">
 						<h1>Select Date</h1>
 						<div class="dateselect">
@@ -90,12 +91,11 @@
 					</form>
 				</article>
 			</div>
-			<div id="footer" class="internal details">
-			
-			<table id="tableFooter" ><tr><td width="53%" align="right"><p><a href="/app/" data-ajax="false"><img src="img/back.png" class="back" /></a><a href="http://www.sdvisualarts.net" target="_blank">SDVisualArts.net</a></p></td><td width="47%" align="right"><p class="info"><a href="http://sdvan.weebly.com/helpfaq.html" target="_blank"><img align="right" src="img/help_black.png" height="25" width="25"/></a></p></td></tr></table>
-				
-			
-			
+			<div id="footer" class="internal">
+				<table id="tableFooter" >
+				<tr><td width="53%" align="right"><p><a href="/app/" data-ajax="false"><img src="img/back.png" class="back" /></a><a href="http://www.sdvisualarts.net" target="_blank">SDVisualArts.net</a></p></td>
+				<td width="47%" align="right"><p><a href="http://sdvan.weebly.com/helpfaq.html" target="_blank"><img align="right" src="img/help_black.png" height="35" width="35"/></a></p></td>
+			</tr></table>
 			</div>
 		</div>
         <script src="js/vendor/zepto.min.js"></script>

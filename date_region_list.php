@@ -301,24 +301,19 @@
 		});
 	</script>
 </head>
-    <body>
-<?php 
-//echo mysql_query("show columns '".$events_table."'"); ?>
+    <body id="listingDetails">
 		<div id="wrapper">
 		<div id="header" class="internal">
 			<a href="/app"><img src="img/sdvan-header-by-date.png" class="header-internal"/></a>
 			<p class="date">Art Events on <?php echo $searchDateDisplay; ?><?php if ($_POST['neighborhood'] != '') : ?><br />in <?php echo $_POST['neighborhood']; ?><?php elseif ($_SESSION['neighborhood'] != '') : ?><br />in <?php echo $_SESSION['neighborhood']; ?><?php endif; ?></p>				
 		</div>
-		<div id="body" class="internal">
-<div id="map" style="width: 100%; height: 100%;"></div>
-<div id="directions"></div>
-<?
-//include('geo_fix.php'); 
-?>
+		<div id="body" style="display:inline; background-color: white, white">
+		<div id="map" style="width: 100%; height: 65%;"></div>
+		<div id="directions"></div>
 </div>
 		<div id="footer" class="internal">
 	
-		<table id="tableFooter" ><tr><td width="53%" align="right"><p><a href="datepicker.php" data-ajax="false"><img src="img/back.png" class="back" /></a><a href="http://www.sdvisualarts.net" target="_blank">SDVisualArts.net</a></p></td><td width="47%" align="right"><p class="info"><a href="http://sdvan.weebly.com/helpfaq.html" target="_blank"><img align="right" src="img/help_black.png" height="25" width="25"/></a></p></td></tr></table>
+		<table id="tableFooter" ><tr><td width="53%" align="right"><p><a href="datepicker.php" data-ajax="false"><img src="img/back.png" class="back" /></a><a href="http://www.sdvisualarts.net" target="_blank">SDVisualArts.net</a></p></td><td width="47%" align="right"><p><a href="http://sdvan.weebly.com/helpfaq.html" target="_blank"><img align="right" src="img/help_black.png" height="35" width="35"/></a></p></td></tr></table>
 				
 		</div>
         <script src="js/vendor/zepto.min.js"></script>
