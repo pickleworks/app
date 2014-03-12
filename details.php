@@ -185,7 +185,7 @@ if (!mysql_select_db($db)) die ('Can\'t use foo : ' . mysql_error());
 			</a><br />
 			<? echo $data['fee']?>
 		</div>
-		<?php if ($_SERVER['HTTP_REFERER'] != '') : ?><a href="<?php echo $_SERVER['HTTP_REFERER'] ?>"><img src="img/back-arrow-gray.png" class="backarrow" /><?php else: ?><img src="img/spacer.png" class="backarrow" /></a><?php endif; ?>
+		<a href="javascript:history.back(1)"><img src="img/back-arrow-gray.png" class="backarrow" /><img src="img/spacer.png" class="backarrow" /></a>
 	</article>
 </div>
 <div id="footer" class="internal">

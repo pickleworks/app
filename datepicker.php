@@ -15,6 +15,10 @@
         <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/touch/apple-touch-icon-72x72-precomposed.png">
         <link rel="apple-touch-icon-precomposed" href="img/touch/apple-touch-icon-57x57-precomposed.png">
         <link rel="shortcut icon" href="favicon.ico?v=2" />
+        <link rel="stylesheet" href="external/jquery.mobile-1.0.min.css" />
+		<link href="css/mobipick.css" rel="stylesheet" type="text/css" />
+        
+        
         
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-status-bar-style" content="black">
@@ -32,6 +36,12 @@
 	<script type="text/javascript" src="external/modernizr.custom.min.js"></script>
 	<script type="text/javascript" src="external/jquery-1.6.4.min.js"></script>
 	<script type="text/javascript" src="external/jquery.mobile-1.0.min.js"></script>
+	<script type="text/javascript" src="external/modernizr.custom.min.js"></script>
+	<script type="text/javascript" src="external/xdate.js"></script>
+	<script type="text/javascript" src="external/xdate.i18n.js"></script>
+	<script type="text/javascript" src="js/mobipick.js"></script>
+	
+	
 	<script type="text/javascript">
 		// Load mobile datepicker if necessary
 		// from http://css-tricks.com/8678-progressively-enhancing-html5-forms/
@@ -49,6 +59,8 @@
 			SyntaxHighlighter.all();
 		});		
 	</script>
+	
+	
 	<script type="text/javascript">
 		$(document).ready(function() {
 			$(".date").click(function() {
@@ -65,14 +77,16 @@
 			<div id="header" class="internal">
 				<a href="/app/" data-ajax="false"><img src="img/sdvan-header-by-date.png" class="header-internal"/></a>
 			</div>
+			
 			<div id="body" class="internal details" style="display:inline-block; background-color: white, white; width: 100%; height:72%">
 				<article>
 				
 					<form method="POST" action="date_region_list.php" data-ajax="false">
 						<h1>Select Date</h1>
 						<div class="dateselect">
-							<input class="mobipick-demo-basic date" type="date" name="date" />
+							<input class="mobipick-demo-basic date" type="date" name="date" value="<?php echo date('Y-m-d'); ?>"/>
 						</div>
+						
 						<div>
 							<h1 class="secondary">Select Region</h1>
 							<select name="neighborhood" class="select_region">

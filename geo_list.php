@@ -240,7 +240,7 @@
 		<p class="date">Art Events on <?php echo date("F j, Y"); ?></p>
 		</div>
 		<div id="body" style="display:inline; background-color: white, white">
-			<div id="map" style="width: 100%; height: 69%;"></div>
+			<div id="map" style="width: 100%; height: 67%;"></div>
 			<div id="directions"></div>
 		</div>
 		<div id="footer" class="internal">

@@ -308,7 +308,7 @@ textarea[contenteditable] {
 and (min-width: 300px) 
 and (orientation:landscape) {
 	div#header {height: 100%;}
-	nav ul li img.menu {width: 75%;}
+	nav ul li img.menu { width: 300px;}	
 	div#body {display: none;}
 	div#footer {display: none;}
 	div#body.internal {display: block;}
@@ -318,74 +318,71 @@ and (orientation:landscape) {
 @media only screen 
 and (min-width: 300px) 
 and (orientation:portrait) {
-		div#header.home {padding: 1%; width: 100%; display: inline; height: 50px;
-			background: #c92162; /* Old browsers */
-			background: -moz-linear-gradient(top,  #c92162 0%, #bc1e5e 72%, #96174c 100%); /* FF3.6+ */
-			background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c92162), color-stop(72%,#bc1e5e), color-stop(100%,#96174c)); /* Chrome,Safari4+ */
-			background: -webkit-linear-gradient(top,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* Chrome10+,Safari5.1+ */
-			background: -o-linear-gradient(top,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* Opera 11.10+ */
-			background: -ms-linear-gradient(top,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* IE10+ */
-			background: linear-gradient(to bottom,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* W3C */
-			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c92162', endColorstr='#96174c',GradientType=0 ); /* IE6-9 */
-		}
-
-		div#body.home { background-position: -270px -25px; height: 300px; }
+		div#header.home {padding: 1%; width: 25%; display: inline; }
+		div#body.home { background-position: -270px -25px; height: 300px;}
 		nav ul { left: -9%; top: 6px;}
 		nav ul li img.menu { width: 300px;}	
 		#footer p { margin: 0; padding: 0; margin-top: 2px; padding-top: 5px; font-size: 80%; }
 		#footer p.info { margin-top: 0px; padding-top: 3px; font-size: 12px; }	
 		
         /* new styles */
-		#map { height: 50%!important; }
-		#listingDetails #map { height: 100%%!important; }
+		#map { height: 70%; }
+		#listingDetails #map { height: 100%; }
 }
 		
 		
 
 @media only screen 
-and (max-width: 320px) 
+and (min-width: 320px) 
 and (orientation:portrait) {
-		div#header.home {padding: 2%; width: 100%; display: block; height: 40%;
-		background: #c92162; /* Old browsers */
-			background: -moz-linear-gradient(top,  #c92162 0%, #bc1e5e 72%, #96174c 100%); /* FF3.6+ */
-			background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c92162), color-stop(72%,#bc1e5e), color-stop(100%,#96174c)); /* Chrome,Safari4+ */
-			background: -webkit-linear-gradient(top,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* Chrome10+,Safari5.1+ */
-			background: -o-linear-gradient(top,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* Opera 11.10+ */
-			background: -ms-linear-gradient(top,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* IE10+ */
-			background: linear-gradient(to bottom,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* W3C */
-			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c92162', endColorstr='#96174c',GradientType=0 ); /* IE6-9 */
-		}
-		div#body.home { background-position: -270px -25px; height: 300px; }
+		div#header.home {padding: 2%; width: 100%; display: block; height: 40%;}
+		div#body.home { background-position: -270px -25px; height: 300px;}
 		nav ul { left: -11%; top: -6px;}
 		nav ul li img.menu { width: 300px;}	
 		#footer p { margin: 0; padding: 0; margin-top: 2px; padding-top: 5px; font-size: 80%; }
-		#footer p.info { margin-top: 0px; padding-top: 3px; font-size: 12px; }	
+		#footer p.info { margin-top: 0px; padding-top: 3px; font-size: 12px; }
+		#map { height: 70%; }
+			
 }
 
 
 @media only screen 
 and (min-width: 480px) 
 and (orientation:landscape) {
-/*	div#header.home {padding: 0; margin: 0; width: 40%; float: left; display: block; height: 100%;}
-	nav ul {right: 10%; top: 5%;}
-	nav ul li img.menu {width: 100%;}
-	div#footer.home {background: transparent; display: block; width: 40%; float: left; height: 25%; bottom: 10%;}
-	div#body.home {display: block; width: 60%; float: left; height: 100%;}
-*/
-	div#header { padding-top: 0; height: auto; padding-bottom: 3px; }
+	div#header { padding-top: 0; height: auto; padding-bottom: 3px; display: block; }
+	div#body.home { background-position: -270px -25px; height: 300px;}
 	nav ul { margin-top: 0; margin-bottom: 0; }
 	div#body {display: block;}
+	nav ul li img.menu { width: 300px;}	
 	div#footer {display: block; position: relative; }	
+	#map { height: 50%; }
+		
 }
 @media only screen and (min-width: 800px) {
+	div#header { padding-top: 0; height: auto; padding-bottom: 3px; display: block; }
+	div#body.home { background-position: -270px -25px; height: 300px;}
+	nav ul { margin-top: 0; margin-bottom: 0; }
+	div#body {display: block;}
 	nav ul li img.menu {width: 45%;}
+	#map { height: 50%; }
 }
   
 @media only screen and (min-width: 1200px) {
     /* Style adjustments for viewports that meet the condition */
+	div#header { padding-top: 0; height: auto; padding-bottom: 3px; display: block; }
+	div#body.home { background-position: -270px -25px; height: 300px;}
 	nav ul li img.menu {width: 20%;}
+	#map { height: 50%; }
+	
 }
+@media screen 
+and (min-width: 800px) 
+and (orientation:landscape) {
+	div#header { padding-top: 0; height: auto; padding-bottom: 3px; display: block; }
+	div#header img.header-internal,
+	div#body.internal article	{width: 465px;}
 
+}
 @media screen and (orientation:portrait) {
     /* Portrait styles */
 }
@@ -394,71 +391,41 @@ and (orientation:landscape) {
 @media screen 
 and (min-width: 599px) 
 and (orientation:landscape) {
-	div#header.home {padding: 2%; width: 100%; display: block;
-	background: #c92162; /* Old browsers */
-	background: -moz-linear-gradient(top,  #c92162 0%, #bc1e5e 72%, #96174c 100%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c92162), color-stop(72%,#bc1e5e), color-stop(100%,#96174c)); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(top,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(top,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(top,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* IE10+ */
-	background: linear-gradient(to bottom,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c92162', endColorstr='#96174c',GradientType=0 ); /* IE6-9 */
-	}
+	div#header.home {padding: 2%; width: 100%; display: block;	}
 	nav ul {right: 5%; top: -15px;}
 	nav ul li img.menu {width: 280px;}
-	div#footer.home {display: block; width: 100%; height: auto; bottom: 0px;
-	background: #c92162; /* Old browsers */
-	background: -moz-linear-gradient(top,  #c92162 0%, #bc1e5e 72%, #96174c 100%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c92162), color-stop(72%,#bc1e5e), color-stop(100%,#96174c)); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(top,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(top,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(top,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* IE10+ */
-	background: linear-gradient(to bottom,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c92162', endColorstr='#96174c',GradientType=0 ); /* IE6-9 */
-	}
+	div#footer.home {display: block; width: 100%; height: auto; bottom: 0px;}
 	div#body.home {display: block; width: 100%; height: 28%; background-position: center -30px; }
 	#footer p { margin-top: 5px; margin-bottom: 0px; }
 	#footer p.info { padding-bottom: 0; bottom: 0; height: 28px; padding-top: 8px; margin-top: 0; }
 }
 
-@media screen 
-and (min-width: 800px) 
-and (orientation:landscape) {
-	div#header img.header-internal,
-	div#body.internal article	{width: 465px;}
 
-}
 /******************* iPad iOS6 retina */
 @media	only screen 
 		and (device-width: 768px)
 		and (-webkit-min-device-pixel-ratio: 1.5)
 		and (orientation: portrait) {	
-			div#header.home {padding: 2%; width: 100%; display: block; height: 35%;}
-			nav ul {right: 5%; top: -20px;}
-			nav ul li img.menu {width: 550px;}
-			div#footer.home {display: block; width: 100%; height: 100px;
-			background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c92162), color-stop(72%,#bc1e5e), color-stop(100%,#96174c)); /* Chrome,Safari4+ */
-			background: -webkit-linear-gradient(top,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* Chrome10+,Safari5.1+ */
-			}
-			div#body.home {display: block; width: 100%; height: 348px; background-position: center 0; }
-			#footer.home p { margin-top: 5px; margin-bottom: 0px; font-size: 18px;}
-			#footer.home p.info { padding-bottom: 0; bottom: 0; height: 28px; padding-top: 16px; margin-top: 0; }
+		div#header.home { width: 100%; display: block; height: 30%;}
+		nav ul {}
+		nav ul li img.menu {width: 450px; }
+		div#footer.home {display: block; width: 100%; height: auto; bottom: 0px;}
+		div#body.home {display: block; width: 100%; height: 40%; background-position: center 0; }
+		#footer p { margin-top: 5px; margin-bottom: 0px; font-size: 18px;}
+		#footer p.info { padding-bottom: 0; bottom: 0; height: 28px; padding-top: 8px; margin-top: 0; }
 			
 }
 @media	only screen 
-		and (device-width: 768px)
-		and (-webkit-min-device-pixel-ratio: 1.5)
-		and (orientation: landscape) {	
-			div#header.home {padding: 2%; width: 100%; display: block; height: 40%;}
-			nav ul {right: 5%; top: -20px;}
-			nav ul li img.menu {width: 400px;}
-			div#footer.home {display: block; width: 100%; height: 100px;
-			background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c92162), color-stop(72%,#bc1e5e), color-stop(100%,#96174c)); /* Chrome,Safari4+ */
-			background: -webkit-linear-gradient(top,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* Chrome10+,Safari5.1+ */
-			}
-			div#body.home {display: block; width: 100%; height: 189px; background-position: center 0; }
-			#footer.home p { margin-top: 5px; margin-bottom: 0px; font-size: 18px;}
-			#footer.home p.info { padding-bottom: 0; bottom: 0; height: 28px; padding-top: 10px; margin-top: 0; }
+	and (device-width: 768px) 
+	and (-webkit-max-device-pixel-ratio: 1)
+	and (orientation: landscape) {
+		div#header.home { padding: 2%; width: 100%; display: block; height: 25%; margin-top: 16px;}
+		nav ul {right: 5%; top: -20px;}
+		nav ul li img.menu {width: 250px;}
+		div#footer.home {display: block; width: 100%; height: auto; bottom: 0px;}
+		div#body.home {display: block; width: 100%; height: 40%;  }
+		#footer p { margin-top: 0px; margin-bottom: 0px; font-size: 18px;}
+		#footer p.info { padding-bottom: 0; bottom: 0; height: 28px; padding-top: 0px; margin-top: 0; }
 } 
 
 /******************* iPad iOS6 non-retina */
@@ -466,31 +433,26 @@ and (orientation:landscape) {
 	and (device-width: 768px) 
 	and (-webkit-max-device-pixel-ratio: 1)
 	and (orientation: portrait) {
-	div#header.home {padding: 4%; width: 100%; display: block; height: 45%;}
-	nav ul {right: 5%; top: 12px;}
-	nav ul li img.menu {width: 550px;}
-	div#footer.home {display: block; width: 100%; height: auto; bottom: 0px;
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c92162), color-stop(22%,#bc1e5e), color-stop(100%,#96174c)); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(top,  #c92162 0%,#bc1e5e 22%,#96174c 100%); /* Chrome10+,Safari5.1+ */
-	}
-	div#body.home {display: block; width: 100%; height: 40%; background-position: center 0; }
-	#footer p { margin-top: 5px; margin-bottom: 0px; font-size: 18px;}
-	#footer p.info { padding-bottom: 0; bottom: 0; height: 28px; padding-top: 8px; margin-top: 0; }
+		div#header.home { width: 100%; display: block; height: 30%;}
+		nav ul {}
+		nav ul li img.menu {width: 450px; }
+		div#footer.home {display: block; width: 100%; height: auto; bottom: 0px;}
+		div#body.home {display: block; width: 100%; height: 40%; background-position: center 0; }
+		#footer p { margin-top: 5px; margin-bottom: 0px; font-size: 18px;}
+		#footer p.info { padding-bottom: 0; bottom: 0; height: 28px; padding-top: 8px; margin-top: 0; }
 }
 @media only screen
 	and (device-width: 768px) 
 	and (-webkit-max-device-pixel-ratio: 1)
 	and (orientation: landscape) {
-			div#header.home {padding: 2%; width: 100%; display: block; height: 40%;}
-			nav ul {right: 5%; top: -20px;}
-			nav ul li img.menu {width: 400px;}
-			div#footer.home {display: block; width: 100%; height: 100px;
-			background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c92162), color-stop(72%,#bc1e5e), color-stop(100%,#96174c)); /* Chrome,Safari4+ */
-			background: -webkit-linear-gradient(top,  #c92162 0%,#bc1e5e 72%,#96174c 100%); /* Chrome10+,Safari5.1+ */
-			}
-			div#body.home {display: block; width: 100%; height: 189px; background-position: center 0; }
-			#footer.home p { margin-top: 5px; margin-bottom: 0px; font-size: 18px;}
-			#footer.home p.info { padding-bottom: 0; bottom: 0; height: 28px; padding-top: 10px; margin-top: 0; }
+		div#header.home { padding: 2%; width: 100%; display: block; height: 25%; margin-top: 16px;}
+		nav ul {right: 5%; top: -20px;}
+		nav ul li img.menu {width: 250px;}
+		div#footer.home {display: inline; width: 100%; height: auto; }
+		div#footer.internal {display: inline; width: 100%; height: auto; }
+		div#body.home {display: block; width: 100%; height: 40%;  }
+		#footer p { margin-top: 0px; margin-bottom: 0px; font-size: 18px;}
+		#footer p.info { padding-bottom: 0; bottom: 0; height: 28px; padding-top: 0px; margin-top: 0; }
 } 
  
 /******************* iPhone 5 4" iOS 6 retina */
@@ -501,7 +463,7 @@ and (orientation:landscape) {
 		div#header.home {padding: 2%; width: 100%; display: block; height: 35%;}
 		div#body.home { background-position: -270px -25px; }
 		nav ul { left: -12%; top: -15px;}
-		nav ul li img.menu { width: 300px; height:45px}	
+		nav ul li img.menu { width: 200px; height: 45px; }	
 		#footer p { margin: 0; padding: 0; margin-top: 2px; padding-top: 5px; font-size: 80%; }
 		#footer p.info { margin-top: 0px; padding-top: 3px; font-size: 12px; }	
 		div.infowin { width: 350px; }		
@@ -514,7 +476,7 @@ and (orientation:landscape) {
 		div#body.home { background-position: -220px -33px; display: block; height: 300px; }
 		nav { width: 200px; position: relative; left: 0;}
 		nav ul { left: 6%; top: -20px; }
-		nav ul li img.menu { width: 200px; }	
+		nav ul li img.menu { width: 200px; height: 45px;}	
 		#footer p { margin: 0; padding: 0; margin-top: 2px; padding-top: 5px; font-size: 80%; }
 		#footer p.info { margin-top: 0px; padding-top: 3px; font-size: 12px; }
 		
@@ -529,7 +491,7 @@ and (orientation:landscape) {
 		div#header.home {padding: 2%; width: 100%; display: block; height: 43%; }
 		div#body.home { background-position: -270px -58px; }
 		nav ul { left: -9%; top: -20px;}
-		nav ul li img.menu { width: 280px;}	
+		nav ul li img.menu { width: 200px; height: 45px;}	
 		#footer p { margin: 0; padding: 0; margin-top: 2px; padding-top: 5px; font-size: 80%; }
 		#footer p.info { margin-top: 0px; padding-top: 3px; font-size: 12px; }	
 }
@@ -542,7 +504,7 @@ and (orientation:landscape) {
 		div#body.home { background-position: -220px -33px; display: block; height: 300px; }
 		nav { width: 200px; position: relative; left: 0;}
 		nav ul { left: 6%; top: -20px; }
-		nav ul li img.menu { width: 200px; }	
+		nav ul li img.menu { width: 200px; height: 45px;}	
 		#footer p { margin: 0; padding: 0; margin-top: 2px; padding-top: 5px; font-size: 80%; }
 		#footer p.info { margin-top: 0px; padding-top: 3px; font-size: 12px; }
 }
@@ -555,7 +517,7 @@ and (orientation:landscape) {
 		div#header.home {padding: 2%; width: 100%; display: block; height: 48%; }
 		div#body.home { background-position: -220px -103px; }
 		nav ul { left: -12%; top: -18px;}
-		nav ul li img.menu { width: 300px;}	
+		nav ul li img.menu { width: 200px; height: 45px;}	
 		#footer p { margin: 0; padding: 0; margin-top: 2px; padding-top: 5px; font-size: 80%; }
 		#footer p.info { margin-top: 0px; padding-top: 3px; font-size: 12px; }	
 }
@@ -567,7 +529,7 @@ and (orientation:landscape) {
 		div#body.home { background-position: -220px -33px; display: block; height: 300px; }
 		nav { width: 200px; position: relative; left: 0;}
 		nav ul { left: 6%; top: -20px; }
-		nav ul li img.menu { width: 200px; }	
+		nav ul li img.menu { width: 200px; height: 45px; }	
 		#footer p { margin: 0; padding: 0; margin-top: 2px; padding-top: 5px; font-size: 80%; }
 		#footer p.info { margin-top: 0px; padding-top: 3px; font-size: 12px; }
 }
@@ -590,8 +552,6 @@ img.backarrow { margin-top: 13px; margin-bottom: 40px; }
 a.infoWinTitleURL, div.infowin { line-height: 18px; }
 a.infoWinTitleURL { display: block; text-transform: uppercase; }
 a.closest {  }
-/* div.infowin { margin-left: -20px; border: 4px solid blue; display: block; } */
-/* div.InfoWindow { left: -20 !important; border: 5px solid red; } */
 div.infowin { width: 220px; }		
 
 
