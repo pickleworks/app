@@ -115,7 +115,7 @@
 				lat=nbhLat;
 				lon=nbhLon;
 			}
-			var map = new google.maps.Map(document.getElementById("map"), {
+			var map = new google.maps.Map(document.getElementById("map_home"), {
 				center: new google.maps.LatLng(lat, lon),
 				zoom: 12,
 				mapTypeId: 'roadmap',
@@ -193,13 +193,12 @@
 			</div>
 			<a href="geo_list.php" class="home"></a>
 			<div style="display:inline;  background-color: white, white"><!--id="body" class="home"-->
-				<div id="map"></div>
+				<div id="map_home"></div>
+				
 			</div>
 			<div id="footer" class="home">
 					<table id="tableFooter">
 						<tr style="border-bottom: 1px solid;" ><td colspan="2"><img src="img/star.png" /><a href="http://www.sdvisualarts.net/sdvan_new/popdetail.php?id=" onclick="location.href=this.href+event_id;return false;" id="EventName" target="_blank"></a></td></tr>
-						
-					 
 						<tr><td width="53%" align="right"><p><a href="http://www.sdvisualarts.net" target="_blank">SDVisualArts.net</a></p></td>
 						<td width="47%" align="right"><a href="http://sdvan.weebly.com/helpfaq.html" target="_blank"><img align="right" src="img/help_black.png" height="35" width="35"/></a></td>
 						</tr>

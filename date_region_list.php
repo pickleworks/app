@@ -307,7 +307,7 @@
 			<a href="/app"><img src="img/sdvan-header-by-date.png" class="header-internal"/></a>
 			<p class="date">Art Events on <?php echo $searchDateDisplay; ?><?php if ($_POST['neighborhood'] != '') : ?><br />in <?php echo $_POST['neighborhood']; ?><?php elseif ($_SESSION['neighborhood'] != '') : ?><br />in <?php echo $_SESSION['neighborhood']; ?><?php endif; ?></p>				
 		</div>
-		<div id="body" style="display:inline; background-color: white, white">
+		<div id="body">
 		<div id="map" style="width: 100%; height: 65%;"></div>
 		<div id="directions"></div>
 		</div>

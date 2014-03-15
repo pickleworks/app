@@ -15,8 +15,6 @@
         <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/touch/apple-touch-icon-72x72-precomposed.png">
         <link rel="apple-touch-icon-precomposed" href="img/touch/apple-touch-icon-57x57-precomposed.png">
         <link rel="shortcut icon" href="favicon.ico?v=2" />
-        <link rel="stylesheet" href="external/jquery.mobile-1.0.min.css" />
-		<link href="css/mobipick.css" rel="stylesheet" type="text/css" />
         
         
         
@@ -36,9 +34,7 @@
 	<script type="text/javascript" src="external/modernizr.custom.min.js"></script>
 	<script type="text/javascript" src="external/jquery-1.6.4.min.js"></script>
 	<script type="text/javascript" src="external/jquery.mobile-1.0.min.js"></script>
-	<script type="text/javascript" src="external/modernizr.custom.min.js"></script>
 	<script type="text/javascript" src="external/xdate.js"></script>
-	<script type="text/javascript" src="external/xdate.i18n.js"></script>
 	<script type="text/javascript" src="js/mobipick.js"></script>
 	
 	
