@@ -19,7 +19,7 @@
         <meta name="description" content="">
         <meta name="HandheldFriendly" content="True">
         <meta name="MobileOptimized" content="320">
-        <meta name="viewport" content="width=device-width">
+         <meta name="viewport" content="width=device-width,initial-scale=1">
         <meta http-equiv="cleartype" content="on">
 
         <link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/touch/apple-touch-icon-144x144-precomposed.png">
@@ -239,7 +239,7 @@
 		<a href="/app/"><img src="img/sdvan-header-internal.png" class="header-internal"/></a>
 		<p class="date">Art Events on <?php echo date("F j, Y"); ?></p>
 		</div>
-		<div id="body" >
+		<div id="body">
 			<div id="map"></div>
 		</div>
 		<div id="footer" class="internal">

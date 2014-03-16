@@ -7,7 +7,7 @@
         <meta name="description" content="">
         <meta name="HandheldFriendly" content="True">
         <meta name="MobileOptimized" content="320">
-        <meta name="viewport" content="width=device-width">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
         <meta http-equiv="cleartype" content="on">
 
         <link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/touch/apple-touch-icon-144x144-precomposed.png">
@@ -55,18 +55,7 @@
 			SyntaxHighlighter.all();
 		});		
 	</script>
-	
-	
-	<script type="text/javascript">
-		$(document).ready(function() {
-			$(".date").click(function() {
-				$('.select_region').attr('disabled', 'disabled');
-			});
-			$(".date").change(function() {
-				$('.select_region').attr('disabled', false);
-			});	
-		});
-	</script>
+
     </head>
     <body>
 		<div id="wrapper">
@@ -87,7 +76,7 @@
 							<h1 class="secondary">Select Region</h1>
 							<select name="neighborhood" class="select_region">
 							  <option></option>
-							  <option value="Current Location">Current Location</option>
+							  <option value="Current Location" selected>Current Location</option>
 							  <option value="All Neighborhoods">All Neighborhoods</option>
 							  <option value="North County Coastal">North County Coastal</option>
 							  <option value="North County Inland">North County Inland</option>							  

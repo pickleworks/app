@@ -52,7 +52,7 @@
         <meta name="description" content="">
         <meta name="HandheldFriendly" content="True">
         <meta name="MobileOptimized" content="320">
-        <meta name="viewport" content="width=device-width">
+       <meta name="viewport" content="width=device-width,initial-scale=1">
         <meta http-equiv="cleartype" content="on">
 
         <link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/touch/apple-touch-icon-144x144-precomposed.png">
@@ -188,9 +188,10 @@
 			htmlStr=htmlStr.replace(/&quot;/g,'"');
 			htmlStr=htmlStr.replace(/&#39;/g,"'");
 			htmlStr=htmlStr.replace(/&amp;/g,'&');
+			
 			return htmlStr; 
 		}
- 
+		
 		function downloadUrl(url,callback) {
 			var request = window.ActiveXObject ?  new ActiveXObject('Microsoft.XMLHTTP') : new XMLHttpRequest;
 			request.onreadystatechange = function() {
@@ -308,7 +309,7 @@
 			<p class="date">Art Events on <?php echo $searchDateDisplay; ?><?php if ($_POST['neighborhood'] != '') : ?><br />in <?php echo $_POST['neighborhood']; ?><?php elseif ($_SESSION['neighborhood'] != '') : ?><br />in <?php echo $_SESSION['neighborhood']; ?><?php endif; ?></p>				
 		</div>
 		<div id="body">
-		<div id="map" style="width: 100%; height: 65%;"></div>
+		<div id="map" ></div>
 		<div id="directions"></div>
 		</div>
 		<div id="footer" class="internal">

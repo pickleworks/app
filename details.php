@@ -19,7 +19,7 @@ if (!mysql_select_db($db)) die ('Can\'t use foo : ' . mysql_error());
         <meta name="description" content="">
         <meta name="HandheldFriendly" content="True">
         <meta name="MobileOptimized" content="320">
-        <meta name="viewport" content="width=device-width">
+         <meta name="viewport" content="width=device-width,initial-scale=1">
         <meta http-equiv="cleartype" content="on">
 
         <link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/touch/apple-touch-icon-144x144-precomposed.png">
@@ -42,7 +42,7 @@ if (!mysql_select_db($db)) die ('Can\'t use foo : ' . mysql_error());
 		<div id="header" class="internal">
 		<a href="/SDVisualArts"><img src="img/sdvan-header-details.png" class="header-internal"/></a>
 		</div>
-		<div id="body" class="internal details">
+		<div id="body"  class="internal" style="display:block; background-color: white, white; width: 100%; overflow:scroll; ">
 		
 		<?php
 			$data_query=mysql_query("select * from ".$events_table." where event_id=".$_GET['event_id']);
@@ -133,7 +133,6 @@ if (!mysql_select_db($db)) die ('Can\'t use foo : ' . mysql_error());
 		// close opened html tags
 		$event_detail = closetags($event_detail); 
 	?>
-
 	<article>
 		<h1><? echo $data['eventname']?></h1>
 		<h2><? echo $data['organization']?></h2>
@@ -185,7 +184,9 @@ if (!mysql_select_db($db)) die ('Can\'t use foo : ' . mysql_error());
 			</a><br />
 			<? echo $data['fee']?>
 		</div>
-		<a href="javascript:history.back(1)"><img src="img/back-arrow-gray.png" class="backarrow" /><img src="img/spacer.png" class="backarrow" /></a>
+		<img src="img/spacer.png" class="backarrow" /></a>
+	
+	<script type="text/javascript" src="/js/touchscroll.js"></script>
 	</article>
 </div>
 <div id="footer" class="internal">
@@ -195,9 +196,10 @@ if (!mysql_select_db($db)) die ('Can\'t use foo : ' . mysql_error());
 		<a href="http://www.sdvisualarts.net" target="_blank">SDVisualArts.net</a></p>
 		
 		</td>
-		<td width="47%" align="right"><p class="info">
+		<td width="47%" align="right"><p>
 		<a href="http://sdvan.weebly.com/helpfaq.html" target="_blank"><img align="right" src="img/help_black.png" height="25" width="25"/></a></p></td></tr></table>
 			
+</div>
 </div>
         <script src="js/vendor/zepto.min.js"></script>
         <script src="js/helper.js"></script>
