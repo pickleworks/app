@@ -197,7 +197,11 @@
 						parseFloat(markers[i].getAttribute("lat")),
 						parseFloat(markers[i].getAttribute("lng"))
 					);
-					var notes=markers[i].getAttribute('notes');					
+					var notes=markers[i].getAttribute('notes');	
+					var contains = (notes.indexOf('href') > -1); //true
+                    if (contains) {
+                                   notes = "";
+                    }				
 					var html = "<div class='infowin'><a href='details.php?event_id="+parsetoHTML(event_id)+"' class='infoWinTitleURL'>" + parsetoHTML(name) + "</a><br/>"+parsetoHTML(notes)+"<p class='addy'>" + parsetoHTML(address) +"</p><p class='dirread'><a href='details.php?event_id="+parsetoHTML(event_id)+"'>READ MORE</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='http://maps.google.com/maps?saddr=&daddr="+address+"'>DIRECTIONS</a></p></div>";
 					var icon = customIcons[type] || {};
 					var marker = new google.maps.Marker({

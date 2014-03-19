@@ -377,7 +377,7 @@ $.widget( "sustainablepace.mobipick", $.mobile.widget, {
 
 		p.find( ".mobipick-set"    ).text( locale.ok     || "Set"    );
 		p.find( ".mobipick-cancel" ).text( locale.cancel || "Cancel" );
-		p.css( "margin-top", parseInt( $( window ).scrollTop(), 10 ) + 75 + "px" );
+		p.css( "margin-top", parseInt( $( window ).scrollTop(), 10 ) + 85 + "px" );
 
 		// Display items based on accuracy setting
 		var columns  = p.find( ".mobipick-groups > li" )

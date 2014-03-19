@@ -177,7 +177,7 @@ h1 {text-transform: uppercase; color: #c3205f; font-weight: 700; margin: 10px 0 
 #body.internal p.directions-link a {text-transform: uppercase; color:#fb9934; font-weight: 700; text-decoration: underline;}
 p.event-info,
 p.event-address {font-weight: 700; margin: 0; line-height: 1.2em;}
-div#body article form {padding: 20px 0px;}
+div#body article form {padding: 0px 0px;}
 input.map {background: url(../img/button-map.png) no-repeat; border:none; width: 268px; height: 58px; margin-top: 20px;}
 
 
@@ -335,7 +335,7 @@ and (orientation:portrait) {
 		
 
 @media only screen 
-and (min-width: 320px) 
+and (max-width: 320px) 
 and (orientation:portrait) {
 		div#header.home {padding: 2%; width: 100%; display: block; height: 40%;}
 		div#body.home { background-position: -270px -25px; height: 300px;}
@@ -349,7 +349,6 @@ and (orientation:portrait) {
 		
 }
 
-
 @media only screen 
 and (min-width: 480px) 
 and (orientation:landscape) {
@@ -362,6 +361,21 @@ and (orientation:landscape) {
 	#map { height: 67%; width:100%; display: block;}
 	#map_home { height: 60%; width: 100%;}
 	
+		
+}
+@media only screen 
+and (min-width: 600px) 
+and (orientation:portrait) {
+	div#header { padding-top: 0; height: auto; padding-bottom: 3px; display: block; }
+    /*div#header.home { padding: 2%; width: 100%; display: block; height: 15%; margin-top: 16px;}*/
+	div#body.home { background-position: -270px -25px; height: 300px;}
+	nav ul { margin-top: 0; margin-bottom: 0; }
+	div#body {display:inline;}
+	nav ul li img.menu { width: 300px;}	
+	div#footer.home {display: block; position: relative; height: auto; width: 100%;}	
+	#map { height: 67%; width:100%; display: block;}
+	#map_home { height: 470px; width: 600px}
+	/*pl3 added this chunk*/
 		
 }
 @media only screen and (min-width: 800px) {
@@ -461,14 +475,15 @@ and (orientation:landscape) {
 		#footer p { margin-top: 5px; margin-bottom: 0px; font-size: 18px;}
 		#footer p.info { padding-bottom: 0; bottom: 0; height: 28px; padding-top: 8px; margin-top: 0; }
 		#map { height: 67%; width: 100%;  }
-		#map_home { height: 60%; width: 100%;}
+		#map_home { height: 56%; width: 100%;}
 		
 }
 @media only screen
 	and (device-width: 768px) 
 	and (-webkit-max-device-pixel-ratio: 1)
 	and (orientation: landscape) {
-		div#header.home { padding: 2%; width: 100%; display: block; height: 15%; margin-top: 16px;}
+        /*div#header { padding-top: 2%; height: auto; padding-bottom: 3px; display: block; }*/
+		div#header.home { padding: 3%; width: 100%; display: block; height: 15%; margin-top: 16px;}
 		nav ul {right: 5%; top: -20px;}
 		nav ul li img.menu {width: 250px;}
 		div#footer.home {display: block; width: 100%; height: auto; }
@@ -477,7 +492,7 @@ and (orientation:landscape) {
 		#footer p { display: block; margin-top: 0px; margin-bottom: 0px; font-size: 18px;}
 		#footer p.info { padding-bottom: 0; bottom: 0; height: 28px; padding-top: 0px; margin-top: 0; }
 		#map { height: 67%; width: 100%;  }
-		#map_home { height: 60%; width: 100%;}
+		#map_home { height: 61%; width: 100%;}
 		
 } 
  
